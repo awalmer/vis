@@ -13,6 +13,8 @@ git remote add origin https://github.com/awalmer/vis.git
 git push -u origin main
 ```
 
+Question: build + deploy? 
+
 Goal: level up programming skills + creativity through data viz!
 
 ## Projects to include
