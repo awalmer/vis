@@ -23,7 +23,7 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
 <p style="font-size: 105%;">► Hover over the colored circles 🟣 to see literary recognition by novel (works best on desktop).</p>
 
 <!-- Load image that I want used for web preview, but take no action -->
-<img src="./images/web_preview.png" style="display:none;">>
+<img src="./images/web_preview.png" style="display:none;">
 
 <!-- Pulitzer SVG -->
 <div class="card svg-wrapper responsive-box" style="background-color: #232323; margin: 0; padding: 0;">
