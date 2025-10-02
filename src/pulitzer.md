@@ -20,7 +20,7 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
 <p></p>
 <p style="font-size: 105%;">The 2025 Pulitzer Prize for Fiction was awarded to Percival Everett for his novel, James (2024). This work is a reconsideration of Mark Twain's "Adventures of Huckleberry Finn" told from the perspective of the character Jim. Both poignant and satirical, it illustrates the power of language and injustices of racist social constructs. 📚</p>
 <p style="font-size: 105%;">As Everett's 24th published novel, its accolades reflect a long-term persistence to his writing career. With each prolific decade, he received more literary recognition. 🏆</p>
-<p style="font-size: 105%;">► Hover over the colored circles 🟣 to see literary recognition by novel.</p>
+<p style="font-size: 105%;">► Hover over the colored circles 🟣 to see literary recognition by novel (works best on desktop).</p>
 
 <!-- Pulitzer SVG -->
 <div class="card svg-wrapper" style="max-width: 80%; background-color: #232323; margin: 0; padding: 0;">
