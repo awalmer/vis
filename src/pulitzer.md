@@ -24,7 +24,7 @@ image: ./images/web_preview.png
 <p style="font-size: 105%;">► Hover over the colored circles 🟣 to see literary recognition by novel (works best on desktop).</p>
 
 <!-- Pulitzer SVG -->
-<div class="card svg-wrapper" style="max-width: 80%; background-color: #232323; margin: 0; padding: 0;">
+<div class="card svg-wrapper responsive-box" style="background-color: #232323; margin: 0; padding: 0;">
 <div class="svg-overlay-container">
 <img src="./images/james-book-cover-circle-26ksq.png" class="overlay-image"/>
 <svg id="Artboard7:_Take_4" data-name="Artboard7: Take 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2600 2600">
@@ -881,12 +881,31 @@ image: ./images/web_preview.png
 -->
 
  <!-- Import hover script -->
-<script src="components/hover.js"></script>
+<script src="components/hover-mobile.js"></script>
 
 
 
 <style>
 
+
+/* Media Query Width */
+.responsive-box {
+    width: 100%; /* default for mobile */
+    margin: 0 auto; /* center on larger screens */
+  }
+
+  @media (min-width: 768px) {
+    .responsive-box {
+      width: 90%;
+    }
+  }
+
+  @media (max-width: 600px) {
+  #dialog {
+    max-width: 90vw;
+    font-size: 16px;
+  }
+}
 
 /* Hover Dialog Styling */
     #dialog {
@@ -923,7 +942,7 @@ image: ./images/web_preview.png
 
 /* Overlay image */
 .svg-wrapper {
-  max-width: 80%;
+  max-width: 100%;
   margin: 0;
   padding: 0;
   background-color: #232323;
