@@ -6,6 +6,7 @@ pager: false
 sidebar: true
 footer: false
 header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
+image: ./images/web_preview.png
 ---
 
 <head>
@@ -939,7 +940,7 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
   position: absolute;
   top: 0;
   left: 0;
-  transform: translateX(0.72%);
+  transform: translateX(0.73%);
   width: 100%;
   height: 100%;
   object-fit: unset;   /* Make sure no stretching or internal scaling */
