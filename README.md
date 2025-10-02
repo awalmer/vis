@@ -1,22 +1,29 @@
-# vis | aura w
+# Data Visualization | Aura
 
-This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
+This is an [Observable Framework](https://observablehq.com/framework/) app for sharing some of my ✩ interactive ✩ data visualization projects. 
 
+🧠 Note to self ~ useful commands for initiating git in local Observable app structure:
 ```
-npm install
+echo "# vis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/awalmer/vis.git
+git push -u origin main
 ```
 
-Then, to start the local preview server, run:
+Goal: level up programming skills + creativity through data viz!
 
-```
-npm run dev
-```
+## Projects to include
 
-Then visit <http://localhost:3000> to preview your app.
+| Project           | Description                                              |
+| ----------------- | -------------------------------------------------------- |
+| Pulitzer Prize    | --                                                       |
+| Broadway Shows    | --                                                       |
 
-For more, see <https://observablehq.com/framework/getting-started>.
 
-## Project structure
+## Observable project structure reference
 
 A typical Framework project looks like this:
 
@@ -46,14 +53,3 @@ A typical Framework project looks like this:
 **`src/components`** - You can put shared [JavaScript modules](https://observablehq.com/framework/imports) anywhere in your source root, but we recommend putting them here. This helps you pull code out of Markdown files and into JavaScript modules, making it easier to reuse code across pages, write tests and run linters, and even share code with vanilla web applications.
 
 **`observablehq.config.js`** - This is the [app configuration](https://observablehq.com/framework/config) file, such as the pages and sections in the sidebar navigation, and the app’s title.
-
-## Command reference
-
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your app to Observable                            |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
