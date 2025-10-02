@@ -23,7 +23,9 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
 <p style="font-size: 105%;">► Hover over the colored circles 🟣 to see literary recognition by novel.</p>
 
 <!-- Pulitzer SVG -->
-<div class="card" style="max-width: 80%; background-color: #232323; margin: 0; padding: 0;">
+<div class="card svg-wrapper" style="max-width: 80%; background-color: #232323; margin: 0; padding: 0;">
+<div class="svg-overlay-container">
+<img src="./images/james-book-cover-circle-26ksq.png" class="overlay-image"/>
 <svg id="Artboard7:_Take_4" data-name="Artboard7: Take 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2600 2600">
     <defs>
     <pattern id="_10_lpi_30_2" data-name="10 lpi 30% 2" x="0" y="0" width="72" height="72" patternTransform="translate(4801.5 -306.03)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
@@ -861,9 +863,10 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
     </g>
 </svg>
 </div>
+</div>
 
 
-<!-- Image overlay -->
+<!-- Image overlay 
 <img src="./images/james-book-cover-circle-26ksq.png"
         alt="Overlay"
         style="position: absolute;
@@ -874,7 +877,7 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
             z-index: 2;
             pointer-events: none;
             transform: translate(7.3px, 349.5px);"/>
-
+-->
 
  <!-- Import hover script -->
 <script src="components/hover.js"></script>
@@ -915,6 +918,44 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
       line-height: 1.2;
       color: #f0f0f0;
     }
+
+
+/* Overlay image */
+.svg-wrapper {
+  max-width: 80%;
+  margin: 0;
+  padding: 0;
+  background-color: #232323;
+}
+
+.svg-overlay-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+.overlay-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translateX(0.72%);
+  width: 100%;
+  height: 100%;
+  object-fit: unset;   /* Make sure no stretching or internal scaling */
+  pointer-events: none;
+  z-index: 2;
+}
+
+#Artboard7\:Take_4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  z-index: 1;
+}
 
 /* Adobe Illustrator SVG Styling */
     .cls-1 {
