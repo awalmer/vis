@@ -14,7 +14,7 @@ header: "Tools: Adobe Illustrator, HTML, CSS, JavaScript"
     <!-- Open Graph Meta Tags for Link Previews -->
     <meta property="og:title" content="James: 2025 Pulitzer Prize for Fiction">
     <meta property="og:description" content="A data visualization of Percival Everett's novels.">
-    <meta property="og:image" content="./images/web_preview.png" />
+    <meta property="og:image" content="./images/webPreview2.jpg" />
     <meta property="og:url" content="https://awalmer.github.io/vis/pulitzer">
     <meta property="og:type" content="website">
     <!-- Google Fonts -->
