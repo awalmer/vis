@@ -1,0 +1,5168 @@
+[
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 192,
+    "year": 2021,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 189,
+    "year": 2018,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 190,
+    "year": 2019,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 190,
+    "year": 2020,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 4,
+    "visa_free_count": 173,
+    "year": 2017,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 5,
+    "visa_free_count": 173,
+    "year": 2016,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 5,
+    "visa_free_count": 169,
+    "year": 2015,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 5,
+    "visa_free_count": 170,
+    "year": 2014,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 6,
+    "visa_free_count": 167,
+    "year": 2013,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 8,
+    "visa_free_count": 161,
+    "year": 2012,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 9,
+    "visa_free_count": 164,
+    "year": 2011,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 11,
+    "visa_free_count": 155,
+    "year": 2010,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 8,
+    "visa_free_count": 150,
+    "year": 2008,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 8,
+    "visa_free_count": 122,
+    "year": 2006,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 192,
+    "year": 2022,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 192,
+    "year": 2023,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 194,
+    "year": 2024,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 193,
+    "year": 2025,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 192,
+    "year": 2021,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 190,
+    "year": 2018,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 190,
+    "year": 2019,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 191,
+    "year": 2020,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 5,
+    "visa_free_count": 172,
+    "year": 2017,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 5,
+    "visa_free_count": 173,
+    "year": 2016,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 171,
+    "year": 2015,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 172,
+    "year": 2014,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 4,
+    "visa_free_count": 170,
+    "year": 2013,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 5,
+    "visa_free_count": 165,
+    "year": 2012,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 4,
+    "visa_free_count": 170,
+    "year": 2011,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 6,
+    "visa_free_count": 160,
+    "year": 2010,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 4,
+    "visa_free_count": 154,
+    "year": 2008,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 128,
+    "year": 2006,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 192,
+    "year": 2022,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 193,
+    "year": 2023,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 1,
+    "visa_free_count": 194,
+    "year": 2024,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 190,
+    "year": 2025,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 190,
+    "year": 2021,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 188,
+    "year": 2018,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 188,
+    "year": 2019,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 189,
+    "year": 2020,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 7,
+    "visa_free_count": 170,
+    "year": 2017,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 6,
+    "visa_free_count": 172,
+    "year": 2016,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 171,
+    "year": 2015,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 3,
+    "visa_free_count": 172,
+    "year": 2014,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 7,
+    "visa_free_count": 166,
+    "year": 2013,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 9,
+    "visa_free_count": 160,
+    "year": 2012,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 10,
+    "visa_free_count": 163,
+    "year": 2011,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 13,
+    "visa_free_count": 151,
+    "year": 2010,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 12,
+    "visa_free_count": 144,
+    "year": 2008,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 11,
+    "visa_free_count": 115,
+    "year": 2006,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 190,
+    "year": 2022,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 192,
+    "year": 2023,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 193,
+    "year": 2024,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "KR",
+    "country": "South Korea",
+    "region": "ASIA",
+    "rank": 2,
+    "visa_free_count": 190,
+    "year": 2025,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 13,
+    "visa_free_count": 179,
+    "year": 2021,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 10,
+    "visa_free_count": 180,
+    "year": 2018,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 14,
+    "visa_free_count": 178,
+    "year": 2020,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 12,
+    "visa_free_count": 177,
+    "year": 2019,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 13,
+    "visa_free_count": 164,
+    "year": 2017,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 12,
+    "visa_free_count": 164,
+    "year": 2016,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 10,
+    "visa_free_count": 163,
+    "year": 2015,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 8,
+    "visa_free_count": 166,
+    "year": 2014,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 9,
+    "visa_free_count": 163,
+    "year": 2013,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 14,
+    "visa_free_count": 153,
+    "year": 2012,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 12,
+    "visa_free_count": 158,
+    "year": 2011,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 13,
+    "visa_free_count": 151,
+    "year": 2010,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 11,
+    "visa_free_count": 145,
+    "year": 2008,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 9,
+    "visa_free_count": 120,
+    "year": 2006,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 12,
+    "visa_free_count": 179,
+    "year": 2022,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 14,
+    "visa_free_count": 179,
+    "year": 2023,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 12,
+    "visa_free_count": 182,
+    "year": 2024,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "MY",
+    "country": "Malaysia",
+    "region": "ASIA",
+    "rank": 11,
+    "visa_free_count": 181,
+    "year": 2025,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 171,
+    "year": 2021,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 17,
+    "visa_free_count": 170,
+    "year": 2018,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 18,
+    "visa_free_count": 170,
+    "year": 2020,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 22,
+    "visa_free_count": 152,
+    "year": 2017,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 20,
+    "visa_free_count": 154,
+    "year": 2016,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 18,
+    "visa_free_count": 152,
+    "year": 2015,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 15,
+    "visa_free_count": 156,
+    "year": 2014,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 14,
+    "visa_free_count": 152,
+    "year": 2013,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 147,
+    "year": 2012,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 149,
+    "year": 2011,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 140,
+    "year": 2010,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 22,
+    "visa_free_count": 123,
+    "year": 2008,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 18,
+    "visa_free_count": 168,
+    "year": 2019,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 13,
+    "visa_free_count": 110,
+    "year": 2006,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 18,
+    "visa_free_count": 171,
+    "year": 2022,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 171,
+    "year": 2023,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 171,
+    "year": 2024,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "HK",
+    "country": "Hong Kong",
+    "region": "ASIA",
+    "rank": 16,
+    "visa_free_count": 170,
+    "year": 2025,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 23,
+    "visa_free_count": 166,
+    "year": 2021,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 20,
+    "visa_free_count": 165,
+    "year": 2018,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 21,
+    "visa_free_count": 166,
+    "year": 2020,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 22,
+    "visa_free_count": 152,
+    "year": 2017,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 23,
+    "visa_free_count": 151,
+    "year": 2016,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 20,
+    "visa_free_count": 150,
+    "year": 2015,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 17,
+    "visa_free_count": 150,
+    "year": 2014,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 146,
+    "year": 2013,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 24,
+    "visa_free_count": 139,
+    "year": 2012,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 21,
+    "visa_free_count": 144,
+    "year": 2011,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 24,
+    "visa_free_count": 134,
+    "year": 2010,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 129,
+    "year": 2008,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 21,
+    "visa_free_count": 165,
+    "year": 2019,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 19,
+    "visa_free_count": 101,
+    "year": 2006,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 22,
+    "visa_free_count": 166,
+    "year": 2022,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 23,
+    "visa_free_count": 166,
+    "year": 2023,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 20,
+    "visa_free_count": 168,
+    "year": 2024,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "BN",
+    "country": "Brunei",
+    "region": "ASIA",
+    "rank": 18,
+    "visa_free_count": 164,
+    "year": 2025,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 35,
+    "visa_free_count": 144,
+    "year": 2021,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 33,
+    "visa_free_count": 144,
+    "year": 2018,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 33,
+    "visa_free_count": 144,
+    "year": 2020,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 33,
+    "visa_free_count": 141,
+    "year": 2019,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 36,
+    "visa_free_count": 127,
+    "year": 2017,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 40,
+    "visa_free_count": 120,
+    "year": 2016,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 38,
+    "visa_free_count": 120,
+    "year": 2015,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 30,
+    "visa_free_count": 122,
+    "year": 2014,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 33,
+    "visa_free_count": 118,
+    "year": 2013,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 43,
+    "visa_free_count": 107,
+    "year": 2012,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 41,
+    "visa_free_count": 109,
+    "year": 2011,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 44,
+    "visa_free_count": 99,
+    "year": 2010,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 36,
+    "visa_free_count": 87,
+    "year": 2008,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 35,
+    "visa_free_count": 71,
+    "year": 2006,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 33,
+    "visa_free_count": 144,
+    "year": 2022,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 36,
+    "visa_free_count": 144,
+    "year": 2023,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 34,
+    "visa_free_count": 144,
+    "year": 2024,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "MO",
+    "country": "Macao",
+    "region": "ASIA",
+    "rank": 30,
+    "visa_free_count": 144,
+    "year": 2025,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 34,
+    "visa_free_count": 145,
+    "year": 2021,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 29,
+    "visa_free_count": 148,
+    "year": 2018,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 32,
+    "visa_free_count": 146,
+    "year": 2020,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 31,
+    "visa_free_count": 145,
+    "year": 2019,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 31,
+    "visa_free_count": 134,
+    "year": 2017,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 29,
+    "visa_free_count": 137,
+    "year": 2016,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 30,
+    "visa_free_count": 129,
+    "year": 2015,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 24,
+    "visa_free_count": 132,
+    "year": 2014,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 25,
+    "visa_free_count": 130,
+    "year": 2013,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 36,
+    "visa_free_count": 120,
+    "year": 2012,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 40,
+    "visa_free_count": 111,
+    "year": 2011,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 60,
+    "year": 2010,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 54,
+    "visa_free_count": 59,
+    "year": 2008,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 55,
+    "visa_free_count": 42,
+    "year": 2006,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 32,
+    "visa_free_count": 145,
+    "year": 2022,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 35,
+    "visa_free_count": 145,
+    "year": 2023,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 35,
+    "visa_free_count": 143,
+    "year": 2024,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TW",
+    "country": "Taiwan",
+    "region": "ASIA",
+    "rank": 32,
+    "visa_free_count": 138,
+    "year": 2025,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 62,
+    "visa_free_count": 93,
+    "year": 2021,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 54,
+    "visa_free_count": 98,
+    "year": 2018,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 54,
+    "visa_free_count": 95,
+    "year": 2020,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 55,
+    "visa_free_count": 95,
+    "year": 2019,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 57,
+    "year": 2017,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 57,
+    "year": 2016,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 89,
+    "year": 2015,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 77,
+    "year": 2014,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 78,
+    "year": 2013,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 89,
+    "year": 2012,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 88,
+    "year": 2011,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 85,
+    "year": 2010,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 75,
+    "year": 2008,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 55,
+    "visa_free_count": 93,
+    "year": 2022,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 58,
+    "visa_free_count": 94,
+    "year": 2023,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 56,
+    "visa_free_count": 96,
+    "year": 2024,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "TL",
+    "country": "Timor-Leste",
+    "region": "ASIA",
+    "rank": 48,
+    "visa_free_count": 95,
+    "year": 2025,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 66,
+    "visa_free_count": 87,
+    "year": 2021,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 59,
+    "visa_free_count": 85,
+    "year": 2020,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 58,
+    "visa_free_count": 87,
+    "year": 2018,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 60,
+    "visa_free_count": 80,
+    "year": 2017,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 59,
+    "visa_free_count": 80,
+    "year": 2016,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 61,
+    "visa_free_count": 81,
+    "year": 2015,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 49,
+    "visa_free_count": 84,
+    "year": 2014,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 49,
+    "visa_free_count": 80,
+    "year": 2013,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 58,
+    "visa_free_count": 78,
+    "year": 2012,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 57,
+    "visa_free_count": 76,
+    "year": 2011,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 56,
+    "visa_free_count": 73,
+    "year": 2010,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 51,
+    "visa_free_count": 64,
+    "year": 2008,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 52,
+    "visa_free_count": 46,
+    "year": 2006,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 61,
+    "visa_free_count": 84,
+    "year": 2019,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 58,
+    "visa_free_count": 88,
+    "year": 2022,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 61,
+    "visa_free_count": 89,
+    "year": 2023,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 57,
+    "visa_free_count": 95,
+    "year": 2024,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "MV",
+    "country": "Maldives",
+    "region": "ASIA",
+    "rank": 50,
+    "visa_free_count": 93,
+    "year": 2025,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 79,
+    "year": 2021,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 75,
+    "year": 2020,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 74,
+    "year": 2018,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 51,
+    "year": 2017,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 50,
+    "year": 2016,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 45,
+    "year": 2015,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 45,
+    "year": 2014,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 44,
+    "year": 2013,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 41,
+    "year": 2012,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 40,
+    "year": 2011,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 38,
+    "year": 2010,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 33,
+    "year": 2008,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 18,
+    "year": 2006,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 71,
+    "year": 2019,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 64,
+    "visa_free_count": 80,
+    "year": 2022,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 66,
+    "visa_free_count": 80,
+    "year": 2023,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 62,
+    "visa_free_count": 85,
+    "year": 2024,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "CN",
+    "country": "China",
+    "region": "ASIA",
+    "rank": 58,
+    "visa_free_count": 83,
+    "year": 2025,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 79,
+    "year": 2021,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 63,
+    "visa_free_count": 79,
+    "year": 2020,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 77,
+    "year": 2018,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 71,
+    "year": 2017,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 71,
+    "year": 2016,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 68,
+    "year": 2015,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 62,
+    "visa_free_count": 69,
+    "year": 2014,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 60,
+    "visa_free_count": 68,
+    "year": 2013,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 64,
+    "year": 2012,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 63,
+    "year": 2011,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 60,
+    "year": 2010,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 61,
+    "visa_free_count": 52,
+    "year": 2008,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 29,
+    "year": 2006,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 66,
+    "visa_free_count": 77,
+    "year": 2019,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 65,
+    "visa_free_count": 79,
+    "year": 2022,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 78,
+    "year": 2023,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 63,
+    "visa_free_count": 82,
+    "year": 2024,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "TH",
+    "country": "Thailand",
+    "region": "ASIA",
+    "rank": 60,
+    "visa_free_count": 81,
+    "year": 2025,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 74,
+    "year": 2021,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 75,
+    "year": 2020,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 76,
+    "year": 2018,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 71,
+    "year": 2017,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 67,
+    "year": 2016,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 65,
+    "year": 2015,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 64,
+    "visa_free_count": 66,
+    "year": 2014,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 66,
+    "visa_free_count": 61,
+    "year": 2013,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 61,
+    "year": 2012,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 58,
+    "year": 2011,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 54,
+    "year": 2010,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 65,
+    "visa_free_count": 47,
+    "year": 2008,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 28,
+    "year": 2006,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 75,
+    "year": 2019,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 75,
+    "year": 2022,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 70,
+    "visa_free_count": 76,
+    "year": 2023,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 66,
+    "visa_free_count": 78,
+    "year": 2024,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "KZ",
+    "country": "Kazakhstan",
+    "region": "ASIA",
+    "rank": 61,
+    "visa_free_count": 79,
+    "year": 2025,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 71,
+    "year": 2021,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 71,
+    "year": 2020,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 73,
+    "year": 2018,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 57,
+    "year": 2017,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 58,
+    "year": 2016,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 55,
+    "year": 2015,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 56,
+    "year": 2014,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 53,
+    "year": 2013,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 52,
+    "year": 2012,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 51,
+    "year": 2011,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 43,
+    "year": 2010,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 43,
+    "year": 2008,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 67,
+    "visa_free_count": 29,
+    "year": 2006,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 70,
+    "year": 2019,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 71,
+    "year": 2022,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 71,
+    "year": 2023,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 66,
+    "visa_free_count": 78,
+    "year": 2024,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "ID",
+    "country": "Indonesia",
+    "region": "ASIA",
+    "rank": 64,
+    "visa_free_count": 74,
+    "year": 2025,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 61,
+    "year": 2021,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 62,
+    "year": 2020,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 61,
+    "year": 2018,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 54,
+    "year": 2017,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 56,
+    "year": 2016,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 52,
+    "year": 2015,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 51,
+    "year": 2014,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 51,
+    "year": 2013,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 49,
+    "year": 2012,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 43,
+    "year": 2011,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 45,
+    "year": 2010,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 39,
+    "year": 2008,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 24,
+    "year": 2006,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 62,
+    "year": 2019,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 61,
+    "year": 2022,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 62,
+    "year": 2023,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 63,
+    "year": 2024,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "MN",
+    "country": "Mongolia",
+    "region": "ASIA",
+    "rank": 70,
+    "visa_free_count": 65,
+    "year": 2025,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 65,
+    "year": 2021,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 66,
+    "year": 2020,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 66,
+    "year": 2018,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 61,
+    "year": 2017,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 61,
+    "year": 2016,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 60,
+    "year": 2015,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 62,
+    "year": 2014,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 58,
+    "year": 2013,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 59,
+    "year": 2012,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 58,
+    "year": 2011,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 54,
+    "year": 2010,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 62,
+    "visa_free_count": 50,
+    "year": 2008,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 63,
+    "visa_free_count": 33,
+    "year": 2006,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 65,
+    "year": 2019,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 66,
+    "year": 2022,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 67,
+    "year": 2023,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 69,
+    "year": 2024,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "PH",
+    "country": "Philippines",
+    "region": "ASIA",
+    "rank": 70,
+    "visa_free_count": 65,
+    "year": 2025,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 62,
+    "year": 2021,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 63,
+    "year": 2020,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 63,
+    "year": 2018,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 58,
+    "year": 2017,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 58,
+    "year": 2016,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 56,
+    "year": 2015,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 70,
+    "visa_free_count": 58,
+    "year": 2014,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 56,
+    "year": 2013,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 56,
+    "year": 2012,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 55,
+    "year": 2011,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 53,
+    "year": 2010,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 44,
+    "year": 2008,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 28,
+    "year": 2006,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 62,
+    "year": 2019,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 63,
+    "year": 2022,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 64,
+    "year": 2023,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 65,
+    "year": 2024,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "KG",
+    "country": "Kyrgyzstan",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 63,
+    "year": 2025,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 56,
+    "year": 2021,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 57,
+    "year": 2020,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 59,
+    "year": 2018,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 53,
+    "year": 2017,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 52,
+    "year": 2016,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 52,
+    "year": 2015,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 54,
+    "year": 2014,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 52,
+    "year": 2013,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 51,
+    "year": 2012,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 49,
+    "year": 2011,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 47,
+    "year": 2010,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 41,
+    "year": 2008,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 24,
+    "year": 2006,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 56,
+    "year": 2019,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 57,
+    "year": 2022,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 59,
+    "year": 2023,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 62,
+    "year": 2024,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "UZ",
+    "country": "Uzbekistan",
+    "region": "ASIA",
+    "rank": 72,
+    "visa_free_count": 62,
+    "year": 2025,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 58,
+    "year": 2021,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 58,
+    "year": 2020,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 60,
+    "year": 2018,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 49,
+    "year": 2017,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 52,
+    "year": 2016,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 51,
+    "year": 2015,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 52,
+    "year": 2014,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 52,
+    "year": 2013,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 51,
+    "year": 2012,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 53,
+    "year": 2011,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 50,
+    "year": 2010,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 37,
+    "year": 2008,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 71,
+    "visa_free_count": 25,
+    "year": 2006,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 59,
+    "year": 2019,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 60,
+    "year": 2022,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 60,
+    "year": 2023,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 62,
+    "year": 2024,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 58,
+    "year": 2025,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 58,
+    "year": 2021,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 58,
+    "year": 2020,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 58,
+    "year": 2018,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 53,
+    "year": 2017,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 53,
+    "year": 2016,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 51,
+    "year": 2015,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 75,
+    "visa_free_count": 53,
+    "year": 2014,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 50,
+    "year": 2013,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 50,
+    "year": 2012,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 50,
+    "year": 2011,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 50,
+    "year": 2010,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 44,
+    "year": 2008,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 69,
+    "visa_free_count": 27,
+    "year": 2006,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 57,
+    "year": 2019,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 59,
+    "year": 2022,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 60,
+    "year": 2023,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 61,
+    "year": 2024,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "TJ",
+    "country": "Tajikistan",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 56,
+    "year": 2025,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 52,
+    "year": 2021,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 53,
+    "year": 2020,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 55,
+    "year": 2018,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 51,
+    "year": 2017,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 51,
+    "year": 2016,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 91,
+    "visa_free_count": 48,
+    "year": 2015,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 51,
+    "year": 2014,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 49,
+    "year": 2013,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 46,
+    "year": 2012,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 44,
+    "year": 2011,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 44,
+    "year": 2010,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 36,
+    "year": 2008,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 19,
+    "year": 2006,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 52,
+    "year": 2019,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 53,
+    "year": 2022,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 53,
+    "year": 2023,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 55,
+    "year": 2024,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BT",
+    "country": "Bhutan",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 51,
+    "year": 2025,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 53,
+    "year": 2021,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 54,
+    "year": 2020,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 54,
+    "year": 2018,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 48,
+    "year": 2017,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 50,
+    "year": 2016,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 47,
+    "year": 2015,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 50,
+    "year": 2014,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 47,
+    "year": 2013,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 91,
+    "visa_free_count": 42,
+    "year": 2012,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 40,
+    "year": 2011,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 39,
+    "year": 2010,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 29,
+    "year": 2008,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 17,
+    "year": 2006,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 53,
+    "year": 2019,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 53,
+    "year": 2022,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 54,
+    "year": 2023,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 56,
+    "year": 2024,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "KH",
+    "country": "Cambodia",
+    "region": "ASIA",
+    "rank": 82,
+    "visa_free_count": 51,
+    "year": 2025,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 53,
+    "year": 2021,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 54,
+    "year": 2020,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 51,
+    "year": 2018,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 45,
+    "year": 2017,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 47,
+    "year": 2016,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 45,
+    "year": 2015,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 47,
+    "year": 2014,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 45,
+    "year": 2013,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 44,
+    "year": 2012,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 42,
+    "year": 2011,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 43,
+    "year": 2010,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 33,
+    "year": 2008,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 18,
+    "year": 2006,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 51,
+    "year": 2019,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 54,
+    "year": 2022,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 55,
+    "year": 2023,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 55,
+    "year": 2024,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "VN",
+    "country": "Vietnam",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 50,
+    "year": 2025,
+    "region_rank_2025": 23
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 52,
+    "year": 2021,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 53,
+    "year": 2020,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 53,
+    "year": 2018,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 49,
+    "year": 2017,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 49,
+    "year": 2016,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 47,
+    "year": 2015,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 49,
+    "year": 2014,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 46,
+    "year": 2013,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 46,
+    "year": 2012,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 46,
+    "year": 2011,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 41,
+    "year": 2010,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 38,
+    "year": 2008,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 77,
+    "visa_free_count": 19,
+    "year": 2006,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 51,
+    "year": 2019,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 91,
+    "visa_free_count": 52,
+    "year": 2022,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 53,
+    "year": 2023,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 52,
+    "year": 2024,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "TM",
+    "country": "Turkmenistan",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 49,
+    "year": 2025,
+    "region_rank_2025": 24
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 49,
+    "year": 2021,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 50,
+    "year": 2020,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 52,
+    "year": 2018,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 48,
+    "year": 2017,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 47,
+    "year": 2016,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 45,
+    "year": 2015,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 48,
+    "year": 2014,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 46,
+    "year": 2013,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 44,
+    "year": 2012,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 42,
+    "year": 2011,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 42,
+    "year": 2010,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 33,
+    "year": 2008,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 20,
+    "year": 2006,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 49,
+    "year": 2019,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 50,
+    "year": 2022,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 50,
+    "year": 2023,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 51,
+    "year": 2024,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "LA",
+    "country": "Laos",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 47,
+    "year": 2025,
+    "region_rank_2025": 25
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 102,
+    "visa_free_count": 46,
+    "year": 2021,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 47,
+    "year": 2020,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 48,
+    "year": 2018,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 41,
+    "year": 2017,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 42,
+    "year": 2016,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 40,
+    "year": 2015,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 42,
+    "year": 2014,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 40,
+    "year": 2013,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 37,
+    "year": 2012,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 34,
+    "year": 2011,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 34,
+    "year": 2010,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 27,
+    "year": 2008,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 81,
+    "visa_free_count": 15,
+    "year": 2006,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 46,
+    "year": 2019,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 97,
+    "visa_free_count": 46,
+    "year": 2022,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 47,
+    "year": 2023,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 48,
+    "year": 2024,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "MM",
+    "country": "Myanmar",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 44,
+    "year": 2025,
+    "region_rank_2025": 26
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 107,
+    "visa_free_count": 41,
+    "year": 2021,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 97,
+    "visa_free_count": 42,
+    "year": 2020,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 42,
+    "year": 2018,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 38,
+    "year": 2017,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 39,
+    "year": 2016,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 38,
+    "year": 2015,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 39,
+    "year": 2014,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 38,
+    "year": 2013,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 37,
+    "year": 2012,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 38,
+    "year": 2011,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 84,
+    "visa_free_count": 43,
+    "year": 2010,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 33,
+    "year": 2008,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 74,
+    "visa_free_count": 22,
+    "year": 2006,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 43,
+    "year": 2019,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 102,
+    "visa_free_count": 41,
+    "year": 2022,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 100,
+    "visa_free_count": 42,
+    "year": 2023,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 43,
+    "year": 2024,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "LK",
+    "country": "Sri Lanka",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 42,
+    "year": 2025,
+    "region_rank_2025": 27
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 109,
+    "visa_free_count": 39,
+    "year": 2021,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 100,
+    "visa_free_count": 39,
+    "year": 2020,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 42,
+    "year": 2018,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 40,
+    "year": 2017,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 42,
+    "year": 2016,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 100,
+    "visa_free_count": 39,
+    "year": 2015,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 42,
+    "year": 2014,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 41,
+    "year": 2013,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 39,
+    "year": 2012,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 37,
+    "year": 2011,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 36,
+    "year": 2010,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 29,
+    "year": 2008,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 78,
+    "visa_free_count": 18,
+    "year": 2006,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 100,
+    "visa_free_count": 39,
+    "year": 2019,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 104,
+    "visa_free_count": 39,
+    "year": 2022,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 102,
+    "visa_free_count": 40,
+    "year": 2023,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 97,
+    "visa_free_count": 42,
+    "year": 2024,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "KP",
+    "country": "North Korea",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 40,
+    "year": 2025,
+    "region_rank_2025": 28
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 108,
+    "visa_free_count": 40,
+    "year": 2021,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 98,
+    "visa_free_count": 41,
+    "year": 2020,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 100,
+    "visa_free_count": 41,
+    "year": 2018,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 38,
+    "year": 2017,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 39,
+    "year": 2016,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 40,
+    "year": 2015,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 86,
+    "visa_free_count": 42,
+    "year": 2014,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 41,
+    "year": 2013,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 40,
+    "year": 2012,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 91,
+    "visa_free_count": 39,
+    "year": 2011,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 85,
+    "visa_free_count": 42,
+    "year": 2010,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 73,
+    "visa_free_count": 39,
+    "year": 2008,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 68,
+    "visa_free_count": 28,
+    "year": 2006,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 40,
+    "year": 2019,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 103,
+    "visa_free_count": 40,
+    "year": 2022,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 41,
+    "year": 2023,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 97,
+    "visa_free_count": 42,
+    "year": 2024,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "BD",
+    "country": "Bangladesh",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 39,
+    "year": 2025,
+    "region_rank_2025": 29
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 110,
+    "visa_free_count": 37,
+    "year": 2021,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 38,
+    "year": 2020,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 40,
+    "year": 2018,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 97,
+    "visa_free_count": 36,
+    "year": 2017,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 98,
+    "visa_free_count": 37,
+    "year": 2016,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 105,
+    "visa_free_count": 34,
+    "year": 2015,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 37,
+    "year": 2014,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 37,
+    "year": 2013,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 98,
+    "visa_free_count": 35,
+    "year": 2012,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 96,
+    "visa_free_count": 34,
+    "year": 2011,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 88,
+    "visa_free_count": 38,
+    "year": 2010,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 80,
+    "visa_free_count": 32,
+    "year": 2008,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 76,
+    "visa_free_count": 20,
+    "year": 2006,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 38,
+    "year": 2019,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 105,
+    "visa_free_count": 37,
+    "year": 2022,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 103,
+    "visa_free_count": 38,
+    "year": 2023,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 98,
+    "visa_free_count": 40,
+    "year": 2024,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "NP",
+    "country": "Nepal",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 38,
+    "year": 2025,
+    "region_rank_2025": 30
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 113,
+    "visa_free_count": 31,
+    "year": 2021,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 103,
+    "visa_free_count": 32,
+    "year": 2020,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 104,
+    "visa_free_count": 33,
+    "year": 2018,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 102,
+    "visa_free_count": 28,
+    "year": 2017,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 103,
+    "visa_free_count": 29,
+    "year": 2016,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 107,
+    "visa_free_count": 31,
+    "year": 2015,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 92,
+    "visa_free_count": 32,
+    "year": 2014,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 91,
+    "visa_free_count": 32,
+    "year": 2013,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 100,
+    "visa_free_count": 32,
+    "year": 2012,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 99,
+    "visa_free_count": 31,
+    "year": 2011,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 90,
+    "visa_free_count": 36,
+    "year": 2010,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 87,
+    "visa_free_count": 25,
+    "year": 2008,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 79,
+    "visa_free_count": 17,
+    "year": 2006,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 104,
+    "visa_free_count": 31,
+    "year": 2019,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 108,
+    "visa_free_count": 31,
+    "year": 2022,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 106,
+    "visa_free_count": 32,
+    "year": 2023,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 34,
+    "year": 2024,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "PK",
+    "country": "Pakistan",
+    "region": "ASIA",
+    "rank": 95,
+    "visa_free_count": 32,
+    "year": 2025,
+    "region_rank_2025": 31
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 116,
+    "visa_free_count": 26,
+    "year": 2021,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 106,
+    "visa_free_count": 26,
+    "year": 2020,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 106,
+    "visa_free_count": 30,
+    "year": 2018,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 104,
+    "visa_free_count": 24,
+    "year": 2017,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 104,
+    "visa_free_count": 25,
+    "year": 2016,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 110,
+    "visa_free_count": 25,
+    "year": 2015,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 94,
+    "visa_free_count": 28,
+    "year": 2014,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 93,
+    "visa_free_count": 28,
+    "year": 2013,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 103,
+    "visa_free_count": 26,
+    "year": 2012,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 101,
+    "visa_free_count": 24,
+    "year": 2011,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 98,
+    "visa_free_count": 26,
+    "year": 2010,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 89,
+    "visa_free_count": 22,
+    "year": 2008,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 83,
+    "visa_free_count": 12,
+    "year": 2006,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 107,
+    "visa_free_count": 25,
+    "year": 2019,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 111,
+    "visa_free_count": 26,
+    "year": 2022,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 109,
+    "visa_free_count": 27,
+    "year": 2023,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 104,
+    "visa_free_count": 28,
+    "year": 2024,
+    "region_rank_2025": 32
+  },
+  {
+    "code": "AF",
+    "country": "Afghanistan",
+    "region": "ASIA",
+    "rank": 98,
+    "visa_free_count": 25,
+    "year": 2025,
+    "region_rank_2025": 32
+  }
+]
