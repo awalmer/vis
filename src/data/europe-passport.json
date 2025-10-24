@@ -112,26 +112,8 @@
     "country": "Denmark",
     "region": "EUROPE",
     "rank": 1,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 1
-  },
-  {
-    "code": "DK",
-    "country": "Denmark",
-    "region": "EUROPE",
-    "rank": 1,
     "visa_free_count": 157,
     "year": 2008,
-    "region_rank_2025": 1
-  },
-  {
-    "code": "DK",
-    "country": "Denmark",
-    "region": "EUROPE",
-    "rank": 1,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 1
   },
   {
@@ -292,26 +274,8 @@
     "country": "Finland",
     "region": "EUROPE",
     "rank": 2,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 2
-  },
-  {
-    "code": "FI",
-    "country": "Finland",
-    "region": "EUROPE",
-    "rank": 2,
     "visa_free_count": 156,
     "year": 2008,
-    "region_rank_2025": 2
-  },
-  {
-    "code": "FI",
-    "country": "Finland",
-    "region": "EUROPE",
-    "rank": 1,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 2
   },
   {
@@ -472,26 +436,8 @@
     "country": "France",
     "region": "EUROPE",
     "rank": 6,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 3
-  },
-  {
-    "code": "FR",
-    "country": "France",
-    "region": "EUROPE",
-    "rank": 6,
     "visa_free_count": 152,
     "year": 2008,
-    "region_rank_2025": 3
-  },
-  {
-    "code": "FR",
-    "country": "France",
-    "region": "EUROPE",
-    "rank": 4,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 3
   },
   {
@@ -652,26 +598,8 @@
     "country": "Germany",
     "region": "EUROPE",
     "rank": 3,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 4
-  },
-  {
-    "code": "DE",
-    "country": "Germany",
-    "region": "EUROPE",
-    "rank": 3,
     "visa_free_count": 155,
     "year": 2008,
-    "region_rank_2025": 4
-  },
-  {
-    "code": "DE",
-    "country": "Germany",
-    "region": "EUROPE",
-    "rank": 2,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 4
   },
   {
@@ -832,26 +760,8 @@
     "country": "Ireland",
     "region": "EUROPE",
     "rank": 2,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 5
-  },
-  {
-    "code": "IE",
-    "country": "Ireland",
-    "region": "EUROPE",
-    "rank": 2,
     "visa_free_count": 156,
     "year": 2008,
-    "region_rank_2025": 5
-  },
-  {
-    "code": "IE",
-    "country": "Ireland",
-    "region": "EUROPE",
-    "rank": 2,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 5
   },
   {
@@ -1012,26 +922,8 @@
     "country": "Italy",
     "region": "EUROPE",
     "rank": 4,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 6
-  },
-  {
-    "code": "IT",
-    "country": "Italy",
-    "region": "EUROPE",
-    "rank": 4,
     "visa_free_count": 154,
     "year": 2008,
-    "region_rank_2025": 6
-  },
-  {
-    "code": "IT",
-    "country": "Italy",
-    "region": "EUROPE",
-    "rank": 3,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 6
   },
   {
@@ -1192,26 +1084,8 @@
     "country": "Spain",
     "region": "EUROPE",
     "rank": 4,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 7
-  },
-  {
-    "code": "ES",
-    "country": "Spain",
-    "region": "EUROPE",
-    "rank": 4,
     "visa_free_count": 154,
     "year": 2008,
-    "region_rank_2025": 7
-  },
-  {
-    "code": "ES",
-    "country": "Spain",
-    "region": "EUROPE",
-    "rank": 4,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 7
   },
   {
@@ -1363,15 +1237,6 @@
     "country": "Austria",
     "region": "EUROPE",
     "rank": 5,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 8
-  },
-  {
-    "code": "AT",
-    "country": "Austria",
-    "region": "EUROPE",
-    "rank": 5,
     "visa_free_count": 153,
     "year": 2008,
     "region_rank_2025": 8
@@ -1383,15 +1248,6 @@
     "rank": 5,
     "visa_free_count": 185,
     "year": 2019,
-    "region_rank_2025": 8
-  },
-  {
-    "code": "AT",
-    "country": "Austria",
-    "region": "EUROPE",
-    "rank": 5,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 8
   },
   {
@@ -1543,15 +1399,6 @@
     "country": "Belgium",
     "region": "EUROPE",
     "rank": 3,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 9
-  },
-  {
-    "code": "BE",
-    "country": "Belgium",
-    "region": "EUROPE",
-    "rank": 3,
     "visa_free_count": 155,
     "year": 2008,
     "region_rank_2025": 9
@@ -1563,15 +1410,6 @@
     "rank": 6,
     "visa_free_count": 184,
     "year": 2019,
-    "region_rank_2025": 9
-  },
-  {
-    "code": "BE",
-    "country": "Belgium",
-    "region": "EUROPE",
-    "rank": 3,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 9
   },
   {
@@ -1732,26 +1570,8 @@
     "country": "Luxembourg",
     "region": "EUROPE",
     "rank": 4,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 10
-  },
-  {
-    "code": "LU",
-    "country": "Luxembourg",
-    "region": "EUROPE",
-    "rank": 4,
     "visa_free_count": 154,
     "year": 2008,
-    "region_rank_2025": 10
-  },
-  {
-    "code": "LU",
-    "country": "Luxembourg",
-    "region": "EUROPE",
-    "rank": 3,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 10
   },
   {
@@ -1912,26 +1732,8 @@
     "country": "Netherlands",
     "region": "EUROPE",
     "rank": 4,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 11
-  },
-  {
-    "code": "NL",
-    "country": "Netherlands",
-    "region": "EUROPE",
-    "rank": 4,
     "visa_free_count": 154,
     "year": 2008,
-    "region_rank_2025": 11
-  },
-  {
-    "code": "NL",
-    "country": "Netherlands",
-    "region": "EUROPE",
-    "rank": 4,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 11
   },
   {
@@ -2092,26 +1894,8 @@
     "country": "Norway",
     "region": "EUROPE",
     "rank": 5,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 12
-  },
-  {
-    "code": "NO",
-    "country": "Norway",
-    "region": "EUROPE",
-    "rank": 5,
     "visa_free_count": 153,
     "year": 2008,
-    "region_rank_2025": 12
-  },
-  {
-    "code": "NO",
-    "country": "Norway",
-    "region": "EUROPE",
-    "rank": 4,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 12
   },
   {
@@ -2272,26 +2056,8 @@
     "country": "Portugal",
     "region": "EUROPE",
     "rank": 2,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 13
-  },
-  {
-    "code": "PT",
-    "country": "Portugal",
-    "region": "EUROPE",
-    "rank": 2,
     "visa_free_count": 156,
     "year": 2008,
-    "region_rank_2025": 13
-  },
-  {
-    "code": "PT",
-    "country": "Portugal",
-    "region": "EUROPE",
-    "rank": 4,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 13
   },
   {
@@ -2452,26 +2218,8 @@
     "country": "Sweden",
     "region": "EUROPE",
     "rank": 3,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 14
-  },
-  {
-    "code": "SE",
-    "country": "Sweden",
-    "region": "EUROPE",
-    "rank": 3,
     "visa_free_count": 155,
     "year": 2008,
-    "region_rank_2025": 14
-  },
-  {
-    "code": "SE",
-    "country": "Sweden",
-    "region": "EUROPE",
-    "rank": 2,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 14
   },
   {
@@ -2623,15 +2371,6 @@
     "country": "Greece",
     "region": "EUROPE",
     "rank": 9,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 15
-  },
-  {
-    "code": "GR",
-    "country": "Greece",
-    "region": "EUROPE",
-    "rank": 9,
     "visa_free_count": 149,
     "year": 2008,
     "region_rank_2025": 15
@@ -2643,15 +2382,6 @@
     "rank": 6,
     "visa_free_count": 184,
     "year": 2019,
-    "region_rank_2025": 15
-  },
-  {
-    "code": "GR",
-    "country": "Greece",
-    "region": "EUROPE",
-    "rank": 9,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 15
   },
   {
@@ -2812,26 +2542,8 @@
     "country": "Switzerland",
     "region": "EUROPE",
     "rank": 9,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 16
-  },
-  {
-    "code": "CH",
-    "country": "Switzerland",
-    "region": "EUROPE",
-    "rank": 9,
     "visa_free_count": 149,
     "year": 2008,
-    "region_rank_2025": 16
-  },
-  {
-    "code": "CH",
-    "country": "Switzerland",
-    "region": "EUROPE",
-    "rank": 6,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 16
   },
   {
@@ -2992,26 +2704,8 @@
     "country": "United Kingdom",
     "region": "EUROPE",
     "rank": 6,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 17
-  },
-  {
-    "code": "GB",
-    "country": "United Kingdom",
-    "region": "EUROPE",
-    "rank": 6,
     "visa_free_count": 152,
     "year": 2008,
-    "region_rank_2025": 17
-  },
-  {
-    "code": "GB",
-    "country": "United Kingdom",
-    "region": "EUROPE",
-    "rank": 4,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 17
   },
   {
@@ -3163,15 +2857,6 @@
     "country": "Czechia",
     "region": "EUROPE",
     "rank": 17,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 18
-  },
-  {
-    "code": "CZ",
-    "country": "Czechia",
-    "region": "EUROPE",
-    "rank": 17,
     "visa_free_count": 131,
     "year": 2008,
     "region_rank_2025": 18
@@ -3183,15 +2868,6 @@
     "rank": 7,
     "visa_free_count": 183,
     "year": 2019,
-    "region_rank_2025": 18
-  },
-  {
-    "code": "CZ",
-    "country": "Czechia",
-    "region": "EUROPE",
-    "rank": 19,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 18
   },
   {
@@ -3343,15 +3019,6 @@
     "country": "Hungary",
     "region": "EUROPE",
     "rank": 17,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 19
-  },
-  {
-    "code": "HU",
-    "country": "Hungary",
-    "region": "EUROPE",
-    "rank": 17,
     "visa_free_count": 131,
     "year": 2008,
     "region_rank_2025": 19
@@ -3363,15 +3030,6 @@
     "rank": 10,
     "visa_free_count": 180,
     "year": 2019,
-    "region_rank_2025": 19
-  },
-  {
-    "code": "HU",
-    "country": "Hungary",
-    "region": "EUROPE",
-    "rank": 18,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 19
   },
   {
@@ -3532,26 +3190,8 @@
     "country": "Malta",
     "region": "EUROPE",
     "rank": 14,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 20
-  },
-  {
-    "code": "MT",
-    "country": "Malta",
-    "region": "EUROPE",
-    "rank": 14,
     "visa_free_count": 139,
     "year": 2008,
-    "region_rank_2025": 20
-  },
-  {
-    "code": "MT",
-    "country": "Malta",
-    "region": "EUROPE",
-    "rank": 12,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 20
   },
   {
@@ -3712,26 +3352,8 @@
     "country": "Poland",
     "region": "EUROPE",
     "rank": 16,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 21
-  },
-  {
-    "code": "PL",
-    "country": "Poland",
-    "region": "EUROPE",
-    "rank": 16,
     "visa_free_count": 132,
     "year": 2008,
-    "region_rank_2025": 21
-  },
-  {
-    "code": "PL",
-    "country": "Poland",
-    "region": "EUROPE",
-    "rank": 16,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 21
   },
   {
@@ -3883,15 +3505,6 @@
     "country": "Estonia",
     "region": "EUROPE",
     "rank": 20,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 22
-  },
-  {
-    "code": "EE",
-    "country": "Estonia",
-    "region": "EUROPE",
-    "rank": 20,
     "visa_free_count": 127,
     "year": 2008,
     "region_rank_2025": 22
@@ -3903,15 +3516,6 @@
     "rank": 11,
     "visa_free_count": 179,
     "year": 2019,
-    "region_rank_2025": 22
-  },
-  {
-    "code": "EE",
-    "country": "Estonia",
-    "region": "EUROPE",
-    "rank": 23,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 22
   },
   {
@@ -4063,15 +3667,6 @@
     "country": "Croatia",
     "region": "EUROPE",
     "rank": 29,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 23
-  },
-  {
-    "code": "HR",
-    "country": "Croatia",
-    "region": "EUROPE",
-    "rank": 29,
     "visa_free_count": 108,
     "year": 2008,
     "region_rank_2025": 23
@@ -4083,15 +3678,6 @@
     "rank": 18,
     "visa_free_count": 168,
     "year": 2019,
-    "region_rank_2025": 23
-  },
-  {
-    "code": "HR",
-    "country": "Croatia",
-    "region": "EUROPE",
-    "rank": 28,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 23
   },
   {
@@ -4252,26 +3838,8 @@
     "country": "Latvia",
     "region": "EUROPE",
     "rank": 20,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 24
-  },
-  {
-    "code": "LV",
-    "country": "Latvia",
-    "region": "EUROPE",
-    "rank": 20,
     "visa_free_count": 127,
     "year": 2008,
-    "region_rank_2025": 24
-  },
-  {
-    "code": "LV",
-    "country": "Latvia",
-    "region": "EUROPE",
-    "rank": 23,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 24
   },
   {
@@ -4432,26 +4000,8 @@
     "country": "Slovakia",
     "region": "EUROPE",
     "rank": 18,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 25
-  },
-  {
-    "code": "SK",
-    "country": "Slovakia",
-    "region": "EUROPE",
-    "rank": 18,
     "visa_free_count": 130,
     "year": 2008,
-    "region_rank_2025": 25
-  },
-  {
-    "code": "SK",
-    "country": "Slovakia",
-    "region": "EUROPE",
-    "rank": 20,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 25
   },
   {
@@ -4612,26 +4162,8 @@
     "country": "Slovenia",
     "region": "EUROPE",
     "rank": 14,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 26
-  },
-  {
-    "code": "SI",
-    "country": "Slovenia",
-    "region": "EUROPE",
-    "rank": 14,
     "visa_free_count": 139,
     "year": 2008,
-    "region_rank_2025": 26
-  },
-  {
-    "code": "SI",
-    "country": "Slovenia",
-    "region": "EUROPE",
-    "rank": 15,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 26
   },
   {
@@ -4783,15 +4315,6 @@
     "country": "Iceland",
     "region": "EUROPE",
     "rank": 10,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 27
-  },
-  {
-    "code": "IS",
-    "country": "Iceland",
-    "region": "EUROPE",
-    "rank": 10,
     "visa_free_count": 146,
     "year": 2008,
     "region_rank_2025": 27
@@ -4803,15 +4326,6 @@
     "rank": 10,
     "visa_free_count": 180,
     "year": 2019,
-    "region_rank_2025": 27
-  },
-  {
-    "code": "IS",
-    "country": "Iceland",
-    "region": "EUROPE",
-    "rank": 9,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 27
   },
   {
@@ -4972,26 +4486,8 @@
     "country": "Lithuania",
     "region": "EUROPE",
     "rank": 21,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 28
-  },
-  {
-    "code": "LT",
-    "country": "Lithuania",
-    "region": "EUROPE",
-    "rank": 21,
     "visa_free_count": 125,
     "year": 2008,
-    "region_rank_2025": 28
-  },
-  {
-    "code": "LT",
-    "country": "Lithuania",
-    "region": "EUROPE",
-    "rank": 22,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 28
   },
   {
@@ -5152,26 +4648,8 @@
     "country": "Liechtenstein",
     "region": "EUROPE",
     "rank": 13,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 29
-  },
-  {
-    "code": "LI",
-    "country": "Liechtenstein",
-    "region": "EUROPE",
-    "rank": 13,
     "visa_free_count": 140,
     "year": 2008,
-    "region_rank_2025": 29
-  },
-  {
-    "code": "LI",
-    "country": "Liechtenstein",
-    "region": "EUROPE",
-    "rank": 11,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 29
   },
   {
@@ -5323,15 +4801,6 @@
     "country": "Cyprus",
     "region": "EUROPE",
     "rank": 14,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 30
-  },
-  {
-    "code": "CY",
-    "country": "Cyprus",
-    "region": "EUROPE",
-    "rank": 14,
     "visa_free_count": 139,
     "year": 2008,
     "region_rank_2025": 30
@@ -5343,15 +4812,6 @@
     "rank": 14,
     "visa_free_count": 173,
     "year": 2019,
-    "region_rank_2025": 30
-  },
-  {
-    "code": "CY",
-    "country": "Cyprus",
-    "region": "EUROPE",
-    "rank": 13,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 30
   },
   {
@@ -5503,15 +4963,6 @@
     "country": "Bulgaria",
     "region": "EUROPE",
     "rank": 25,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 31
-  },
-  {
-    "code": "BG",
-    "country": "Bulgaria",
-    "region": "EUROPE",
-    "rank": 25,
     "visa_free_count": 116,
     "year": 2008,
     "region_rank_2025": 31
@@ -5523,15 +4974,6 @@
     "rank": 17,
     "visa_free_count": 170,
     "year": 2019,
-    "region_rank_2025": 31
-  },
-  {
-    "code": "BG",
-    "country": "Bulgaria",
-    "region": "EUROPE",
-    "rank": 27,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 31
   },
   {
@@ -5692,26 +5134,8 @@
     "country": "Romania",
     "region": "EUROPE",
     "rank": 26,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 32
-  },
-  {
-    "code": "RO",
-    "country": "Romania",
-    "region": "EUROPE",
-    "rank": 26,
     "visa_free_count": 115,
     "year": 2008,
-    "region_rank_2025": 32
-  },
-  {
-    "code": "RO",
-    "country": "Romania",
-    "region": "EUROPE",
-    "rank": 30,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 32
   },
   {
@@ -5872,26 +5296,8 @@
     "country": "Monaco",
     "region": "EUROPE",
     "rank": 17,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 33
-  },
-  {
-    "code": "MC",
-    "country": "Monaco",
-    "region": "EUROPE",
-    "rank": 17,
     "visa_free_count": 131,
     "year": 2008,
-    "region_rank_2025": 33
-  },
-  {
-    "code": "MC",
-    "country": "Monaco",
-    "region": "EUROPE",
-    "rank": 16,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 33
   },
   {
@@ -6043,15 +5449,6 @@
     "country": "Andorra",
     "region": "EUROPE",
     "rank": 20,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 34
-  },
-  {
-    "code": "AD",
-    "country": "Andorra",
-    "region": "EUROPE",
-    "rank": 20,
     "visa_free_count": 127,
     "year": 2008,
     "region_rank_2025": 34
@@ -6063,15 +5460,6 @@
     "rank": 20,
     "visa_free_count": 166,
     "year": 2019,
-    "region_rank_2025": 34
-  },
-  {
-    "code": "AD",
-    "country": "Andorra",
-    "region": "EUROPE",
-    "rank": 20,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 34
   },
   {
@@ -6232,26 +5620,8 @@
     "country": "San Marino",
     "region": "EUROPE",
     "rank": 15,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 35
-  },
-  {
-    "code": "SM",
-    "country": "San Marino",
-    "region": "EUROPE",
-    "rank": 15,
     "visa_free_count": 134,
     "year": 2008,
-    "region_rank_2025": 35
-  },
-  {
-    "code": "SM",
-    "country": "San Marino",
-    "region": "EUROPE",
-    "rank": 14,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 35
   },
   {
@@ -6411,17 +5781,7 @@
     "code": "VA",
     "country": "Vatican City",
     "region": "EUROPE",
-    "rank": 36,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 36
-  },
-  {
-    "code": "VA",
-    "country": "Vatican City",
-    "region": "EUROPE",
     "rank": 33,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 36
   },
@@ -6574,26 +5934,8 @@
     "country": "Ukraine",
     "region": "EUROPE",
     "rank": 62,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 37
-  },
-  {
-    "code": "UA",
-    "country": "Ukraine",
-    "region": "EUROPE",
-    "rank": 62,
     "visa_free_count": 50,
     "year": 2008,
-    "region_rank_2025": 37
-  },
-  {
-    "code": "UA",
-    "country": "Ukraine",
-    "region": "EUROPE",
-    "rank": 63,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 37
   },
   {
@@ -6754,26 +6096,8 @@
     "country": "Serbia",
     "region": "EUROPE",
     "rank": 62,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 38
-  },
-  {
-    "code": "RS",
-    "country": "Serbia",
-    "region": "EUROPE",
-    "rank": 62,
     "visa_free_count": 50,
     "year": 2008,
-    "region_rank_2025": 38
-  },
-  {
-    "code": "RS",
-    "country": "Serbia",
-    "region": "EUROPE",
-    "rank": 63,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 38
   },
   {
@@ -6862,7 +6186,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 48,
-    "visa_free_count": 0,
     "year": 2017,
     "region_rank_2025": 39
   },
@@ -6871,7 +6194,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 45,
-    "visa_free_count": 0,
     "year": 2016,
     "region_rank_2025": 39
   },
@@ -6880,7 +6202,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 46,
-    "visa_free_count": 0,
     "year": 2015,
     "region_rank_2025": 39
   },
@@ -6889,7 +6210,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 36,
-    "visa_free_count": 0,
     "year": 2014,
     "region_rank_2025": 39
   },
@@ -6898,7 +6218,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 38,
-    "visa_free_count": 0,
     "year": 2013,
     "region_rank_2025": 39
   },
@@ -6907,7 +6226,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 47,
-    "visa_free_count": 0,
     "year": 2012,
     "region_rank_2025": 39
   },
@@ -6916,7 +6234,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 44,
-    "visa_free_count": 0,
     "year": 2011,
     "region_rank_2025": 39
   },
@@ -6925,7 +6242,6 @@
     "country": "North Macedonia",
     "region": "EUROPE",
     "rank": 46,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 39
   },
@@ -6933,17 +6249,7 @@
     "code": "MK",
     "country": "North Macedonia",
     "region": "EUROPE",
-    "rank": 51,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 39
-  },
-  {
-    "code": "MK",
-    "country": "North Macedonia",
-    "region": "EUROPE",
     "rank": 55,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 39
   },
@@ -7096,16 +6402,6 @@
     "country": "Montenegro",
     "region": "EUROPE",
     "rank": 62,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 40
-  },
-  {
-    "code": "ME",
-    "country": "Montenegro",
-    "region": "EUROPE",
-    "rank": 62,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 40
   },
@@ -7123,16 +6419,6 @@
     "country": "Montenegro",
     "region": "EUROPE",
     "rank": 62,
-    "visa_free_count": 0,
-    "year": 2007,
-    "region_rank_2025": 40
-  },
-  {
-    "code": "ME",
-    "country": "Montenegro",
-    "region": "EUROPE",
-    "rank": 62,
-    "visa_free_count": 0,
     "year": 2006,
     "region_rank_2025": 40
   },
@@ -7267,15 +6553,6 @@
     "country": "Albania",
     "region": "EUROPE",
     "rank": 76,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 41
-  },
-  {
-    "code": "AL",
-    "country": "Albania",
-    "region": "EUROPE",
-    "rank": 76,
     "visa_free_count": 36,
     "year": 2008,
     "region_rank_2025": 41
@@ -7287,15 +6564,6 @@
     "rank": 51,
     "visa_free_count": 113,
     "year": 2019,
-    "region_rank_2025": 41
-  },
-  {
-    "code": "AL",
-    "country": "Albania",
-    "region": "EUROPE",
-    "rank": 77,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 41
   },
   {
@@ -7345,7 +6613,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 54,
     "visa_free_count": 116,
@@ -7354,7 +6622,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 48,
     "visa_free_count": 118,
@@ -7363,7 +6631,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 48,
     "visa_free_count": 117,
@@ -7372,7 +6640,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 53,
     "visa_free_count": 103,
@@ -7381,7 +6649,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 52,
     "visa_free_count": 101,
@@ -7390,7 +6658,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 52,
     "visa_free_count": 98,
@@ -7399,7 +6667,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 42,
     "visa_free_count": 95,
@@ -7408,7 +6676,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 44,
     "visa_free_count": 91,
@@ -7417,7 +6685,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 52,
     "visa_free_count": 87,
@@ -7426,7 +6694,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 50,
     "visa_free_count": 87,
@@ -7435,7 +6703,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 74,
     "visa_free_count": 53,
@@ -7444,16 +6712,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
-    "region": "EUROPE",
-    "rank": 72,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 42
-  },
-  {
-    "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 72,
     "visa_free_count": 40,
@@ -7462,7 +6721,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 49,
     "visa_free_count": 116,
@@ -7471,16 +6730,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
-    "region": "EUROPE",
-    "rank": 71,
-    "visa_free_count": 0,
-    "year": 2007,
-    "region_rank_2025": 42
-  },
-  {
-    "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 71,
     "visa_free_count": 25,
@@ -7489,7 +6739,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 47,
     "visa_free_count": 117,
@@ -7498,7 +6748,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 49,
     "visa_free_count": 118,
@@ -7507,7 +6757,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 50,
     "visa_free_count": 121,
@@ -7516,7 +6766,7 @@
   },
   {
     "code": "BA",
-    "country": "Bosnia and Herzegovina",
+    "country": "Bosnia (B&H)",
     "region": "EUROPE",
     "rank": 40,
     "visa_free_count": 123,
@@ -7627,15 +6877,6 @@
     "country": "Georgia",
     "region": "EUROPE",
     "rank": 66,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 43
-  },
-  {
-    "code": "GE",
-    "country": "Georgia",
-    "region": "EUROPE",
-    "rank": 66,
     "visa_free_count": 46,
     "year": 2008,
     "region_rank_2025": 43
@@ -7647,15 +6888,6 @@
     "rank": 50,
     "visa_free_count": 114,
     "year": 2019,
-    "region_rank_2025": 43
-  },
-  {
-    "code": "GE",
-    "country": "Georgia",
-    "region": "EUROPE",
-    "rank": 67,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 43
   },
   {
@@ -7789,7 +7021,6 @@
     "country": "Moldova",
     "region": "EUROPE",
     "rank": 68,
-    "visa_free_count": 0,
     "year": 2012,
     "region_rank_2025": 44
   },
@@ -7798,7 +7029,6 @@
     "country": "Moldova",
     "region": "EUROPE",
     "rank": 67,
-    "visa_free_count": 0,
     "year": 2011,
     "region_rank_2025": 44
   },
@@ -7807,7 +7037,6 @@
     "country": "Moldova",
     "region": "EUROPE",
     "rank": 66,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 44
   },
@@ -7816,16 +7045,6 @@
     "country": "Moldova",
     "region": "EUROPE",
     "rank": 66,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 44
-  },
-  {
-    "code": "MD",
-    "country": "Moldova",
-    "region": "EUROPE",
-    "rank": 66,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 44
   },
@@ -7867,7 +7086,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 52,
     "visa_free_count": 118,
@@ -7876,7 +7095,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 47,
     "visa_free_count": 119,
@@ -7885,7 +7104,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 48,
     "visa_free_count": 117,
@@ -7894,7 +7113,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 48,
     "visa_free_count": 117,
@@ -7903,7 +7122,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 51,
     "visa_free_count": 106,
@@ -7912,7 +7131,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 48,
     "visa_free_count": 105,
@@ -7921,7 +7140,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 50,
     "visa_free_count": 102,
@@ -7930,7 +7149,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 38,
     "visa_free_count": 100,
@@ -7939,7 +7158,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 41,
     "visa_free_count": 95,
@@ -7948,7 +7167,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 49,
     "visa_free_count": 94,
@@ -7957,7 +7176,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 49,
     "visa_free_count": 89,
@@ -7966,7 +7185,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 49,
     "visa_free_count": 83,
@@ -7975,16 +7194,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
-    "region": "EUROPE",
-    "rank": 53,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 45
-  },
-  {
-    "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 53,
     "visa_free_count": 60,
@@ -7993,16 +7203,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
-    "region": "EUROPE",
-    "rank": 57,
-    "visa_free_count": 0,
-    "year": 2007,
-    "region_rank_2025": 45
-  },
-  {
-    "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 62,
     "visa_free_count": 35,
@@ -8011,7 +7212,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 46,
     "visa_free_count": 119,
@@ -8020,7 +7221,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 49,
     "visa_free_count": 118,
@@ -8029,7 +7230,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 51,
     "visa_free_count": 119,
@@ -8038,7 +7239,7 @@
   },
   {
     "code": "RU",
-    "country": "Russian Federation",
+    "country": "Russian Fed.",
     "region": "EUROPE",
     "rank": 43,
     "visa_free_count": 114,
@@ -8158,26 +7359,8 @@
     "country": "Türkiye",
     "region": "EUROPE",
     "rank": 42,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 46
-  },
-  {
-    "code": "TR",
-    "country": "Türkiye",
-    "region": "EUROPE",
-    "rank": 42,
     "visa_free_count": 75,
     "year": 2008,
-    "region_rank_2025": 46
-  },
-  {
-    "code": "TR",
-    "country": "Türkiye",
-    "region": "EUROPE",
-    "rank": 44,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 46
   },
   {
@@ -8473,26 +7656,8 @@
     "country": "Belarus",
     "region": "EUROPE",
     "rank": 63,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 48
-  },
-  {
-    "code": "BY",
-    "country": "Belarus",
-    "region": "EUROPE",
-    "rank": 63,
     "visa_free_count": 49,
     "year": 2008,
-    "region_rank_2025": 48
-  },
-  {
-    "code": "BY",
-    "country": "Belarus",
-    "region": "EUROPE",
-    "rank": 63,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 48
   },
   {
@@ -8653,26 +7818,8 @@
     "country": "Azerbaijan",
     "region": "EUROPE",
     "rank": 68,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 49
-  },
-  {
-    "code": "AZ",
-    "country": "Azerbaijan",
-    "region": "EUROPE",
-    "rank": 68,
     "visa_free_count": 44,
     "year": 2008,
-    "region_rank_2025": 49
-  },
-  {
-    "code": "AZ",
-    "country": "Azerbaijan",
-    "region": "EUROPE",
-    "rank": 68,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 49
   },
   {

@@ -112,26 +112,8 @@
     "country": "Seychelles",
     "region": "AFRICA",
     "rank": 44,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 1
-  },
-  {
-    "code": "SC",
-    "country": "Seychelles",
-    "region": "AFRICA",
-    "rank": 44,
     "visa_free_count": 71,
     "year": 2008,
-    "region_rank_2025": 1
-  },
-  {
-    "code": "SC",
-    "country": "Seychelles",
-    "region": "AFRICA",
-    "rank": 45,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 1
   },
   {
@@ -292,26 +274,8 @@
     "country": "Mauritius",
     "region": "AFRICA",
     "rank": 48,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 2
-  },
-  {
-    "code": "MU",
-    "country": "Mauritius",
-    "region": "AFRICA",
-    "rank": 48,
     "visa_free_count": 67,
     "year": 2008,
-    "region_rank_2025": 2
-  },
-  {
-    "code": "MU",
-    "country": "Mauritius",
-    "region": "AFRICA",
-    "rank": 47,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 2
   },
   {
@@ -472,26 +436,8 @@
     "country": "South Africa",
     "region": "AFRICA",
     "rank": 35,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 3
-  },
-  {
-    "code": "ZA",
-    "country": "South Africa",
-    "region": "AFRICA",
-    "rank": 35,
     "visa_free_count": 88,
     "year": 2008,
-    "region_rank_2025": 3
-  },
-  {
-    "code": "ZA",
-    "country": "South Africa",
-    "region": "AFRICA",
-    "rank": 36,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 3
   },
   {
@@ -643,26 +589,8 @@
     "country": "Botswana",
     "region": "AFRICA",
     "rank": 54,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 4
-  },
-  {
-    "code": "BW",
-    "country": "Botswana",
-    "region": "AFRICA",
-    "rank": 54,
     "visa_free_count": 59,
     "year": 2008,
-    "region_rank_2025": 4
-  },
-  {
-    "code": "BW",
-    "country": "Botswana",
-    "region": "AFRICA",
-    "rank": 52,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 4
   },
   {
@@ -811,24 +739,8 @@
     "country": "Namibia",
     "region": "AFRICA",
     "rank": 55,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 5
-  },
-  {
-    "country": "Namibia",
-    "region": "AFRICA",
-    "rank": 55,
     "visa_free_count": 58,
     "year": 2008,
-    "region_rank_2025": 5
-  },
-  {
-    "country": "Namibia",
-    "region": "AFRICA",
-    "rank": 55,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 5
   },
   {
@@ -983,26 +895,8 @@
     "country": "Lesotho",
     "region": "AFRICA",
     "rank": 52,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 6
-  },
-  {
-    "code": "LS",
-    "country": "Lesotho",
-    "region": "AFRICA",
-    "rank": 52,
     "visa_free_count": 62,
     "year": 2008,
-    "region_rank_2025": 6
-  },
-  {
-    "code": "LS",
-    "country": "Lesotho",
-    "region": "AFRICA",
-    "rank": 49,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 6
   },
   {
@@ -1163,26 +1057,8 @@
     "country": "eSwatini",
     "region": "AFRICA",
     "rank": 54,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 7
-  },
-  {
-    "code": "SZ",
-    "country": "eSwatini",
-    "region": "AFRICA",
-    "rank": 54,
     "visa_free_count": 59,
     "year": 2008,
-    "region_rank_2025": 7
-  },
-  {
-    "code": "SZ",
-    "country": "eSwatini",
-    "region": "AFRICA",
-    "rank": 53,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 7
   },
   {
@@ -1343,26 +1219,8 @@
     "country": "Malawi",
     "region": "AFRICA",
     "rank": 53,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 8
-  },
-  {
-    "code": "MW",
-    "country": "Malawi",
-    "region": "AFRICA",
-    "rank": 53,
     "visa_free_count": 60,
     "year": 2008,
-    "region_rank_2025": 8
-  },
-  {
-    "code": "MW",
-    "country": "Malawi",
-    "region": "AFRICA",
-    "rank": 51,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 8
   },
   {
@@ -1523,26 +1381,8 @@
     "country": "Morocco",
     "region": "AFRICA",
     "rank": 70,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 9
-  },
-  {
-    "code": "MA",
-    "country": "Morocco",
-    "region": "AFRICA",
-    "rank": 70,
     "visa_free_count": 42,
     "year": 2008,
-    "region_rank_2025": 9
-  },
-  {
-    "code": "MA",
-    "country": "Morocco",
-    "region": "AFRICA",
-    "rank": 68,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 9
   },
   {
@@ -1703,26 +1543,8 @@
     "country": "The Gambia",
     "region": "AFRICA",
     "rank": 52,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 10
-  },
-  {
-    "code": "GM",
-    "country": "The Gambia",
-    "region": "AFRICA",
-    "rank": 52,
     "visa_free_count": 62,
     "year": 2008,
-    "region_rank_2025": 10
-  },
-  {
-    "code": "GM",
-    "country": "The Gambia",
-    "region": "AFRICA",
-    "rank": 48,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 10
   },
   {
@@ -1883,26 +1705,8 @@
     "country": "Kenya",
     "region": "AFRICA",
     "rank": 55,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 11
-  },
-  {
-    "code": "KE",
-    "country": "Kenya",
-    "region": "AFRICA",
-    "rank": 55,
     "visa_free_count": 58,
     "year": 2008,
-    "region_rank_2025": 11
-  },
-  {
-    "code": "KE",
-    "country": "Kenya",
-    "region": "AFRICA",
-    "rank": 53,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 11
   },
   {
@@ -2063,26 +1867,8 @@
     "country": "Tanzania",
     "region": "AFRICA",
     "rank": 59,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 12
-  },
-  {
-    "code": "TZ",
-    "country": "Tanzania",
-    "region": "AFRICA",
-    "rank": 59,
     "visa_free_count": 54,
     "year": 2008,
-    "region_rank_2025": 12
-  },
-  {
-    "code": "TZ",
-    "country": "Tanzania",
-    "region": "AFRICA",
-    "rank": 57,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 12
   },
   {
@@ -2243,26 +2029,8 @@
     "country": "Ghana",
     "region": "AFRICA",
     "rank": 58,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 13
-  },
-  {
-    "code": "GH",
-    "country": "Ghana",
-    "region": "AFRICA",
-    "rank": 58,
     "visa_free_count": 55,
     "year": 2008,
-    "region_rank_2025": 13
-  },
-  {
-    "code": "GH",
-    "country": "Ghana",
-    "region": "AFRICA",
-    "rank": 55,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 13
   },
   {
@@ -2423,26 +2191,8 @@
     "country": "Benin",
     "region": "AFRICA",
     "rank": 65,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 14
-  },
-  {
-    "code": "BJ",
-    "country": "Benin",
-    "region": "AFRICA",
-    "rank": 65,
     "visa_free_count": 47,
     "year": 2008,
-    "region_rank_2025": 14
-  },
-  {
-    "code": "BJ",
-    "country": "Benin",
-    "region": "AFRICA",
-    "rank": 63,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 14
   },
   {
@@ -2501,7 +2251,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 82,
     "visa_free_count": 66,
@@ -2510,7 +2260,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 74,
     "visa_free_count": 66,
@@ -2519,7 +2269,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 76,
     "visa_free_count": 65,
@@ -2528,97 +2278,79 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 73,
-    "visa_free_count": 0,
     "year": 2017,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 76,
-    "visa_free_count": 0,
     "year": 2016,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 82,
-    "visa_free_count": 0,
     "year": 2015,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 71,
-    "visa_free_count": 0,
     "year": 2014,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 70,
-    "visa_free_count": 0,
     "year": 2013,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 76,
-    "visa_free_count": 0,
     "year": 2012,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 76,
-    "visa_free_count": 0,
     "year": 2011,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 73,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 65,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 15
-  },
-  {
-    "code": "CV",
-    "country": "Cape Verde Islands",
-    "region": "AFRICA",
-    "rank": 65,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 15
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 76,
     "visa_free_count": 66,
@@ -2627,7 +2359,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 77,
     "visa_free_count": 66,
@@ -2636,7 +2368,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 79,
     "visa_free_count": 66,
@@ -2645,7 +2377,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 73,
     "visa_free_count": 69,
@@ -2654,7 +2386,7 @@
   },
   {
     "code": "CV",
-    "country": "Cape Verde Islands",
+    "country": "Cape Verde Isl.",
     "region": "AFRICA",
     "rank": 69,
     "visa_free_count": 67,
@@ -2765,26 +2497,8 @@
     "country": "Tunisia",
     "region": "AFRICA",
     "rank": 58,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 16
-  },
-  {
-    "code": "TN",
-    "country": "Tunisia",
-    "region": "AFRICA",
-    "rank": 58,
     "visa_free_count": 55,
     "year": 2008,
-    "region_rank_2025": 16
-  },
-  {
-    "code": "TN",
-    "country": "Tunisia",
-    "region": "AFRICA",
-    "rank": 58,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 16
   },
   {
@@ -2945,26 +2659,8 @@
     "country": "Uganda",
     "region": "AFRICA",
     "rank": 60,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 17
-  },
-  {
-    "code": "UG",
-    "country": "Uganda",
-    "region": "AFRICA",
-    "rank": 60,
     "visa_free_count": 53,
     "year": 2008,
-    "region_rank_2025": 17
-  },
-  {
-    "code": "UG",
-    "country": "Uganda",
-    "region": "AFRICA",
-    "rank": 59,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 17
   },
   {
@@ -3125,26 +2821,8 @@
     "country": "Zambia",
     "region": "AFRICA",
     "rank": 56,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 18
-  },
-  {
-    "code": "ZM",
-    "country": "Zambia",
-    "region": "AFRICA",
-    "rank": 56,
     "visa_free_count": 57,
     "year": 2008,
-    "region_rank_2025": 18
-  },
-  {
-    "code": "ZM",
-    "country": "Zambia",
-    "region": "AFRICA",
-    "rank": 54,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 18
   },
   {
@@ -3305,26 +2983,8 @@
     "country": "Sierra Leone",
     "region": "AFRICA",
     "rank": 53,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 19
-  },
-  {
-    "code": "SL",
-    "country": "Sierra Leone",
-    "region": "AFRICA",
-    "rank": 53,
     "visa_free_count": 60,
     "year": 2008,
-    "region_rank_2025": 19
-  },
-  {
-    "code": "SL",
-    "country": "Sierra Leone",
-    "region": "AFRICA",
-    "rank": 52,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 19
   },
   {
@@ -3485,26 +3145,8 @@
     "country": "Rwanda",
     "region": "AFRICA",
     "rank": 78,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 20
-  },
-  {
-    "code": "RW",
-    "country": "Rwanda",
-    "region": "AFRICA",
-    "rank": 78,
     "visa_free_count": 34,
     "year": 2008,
-    "region_rank_2025": 20
-  },
-  {
-    "code": "RW",
-    "country": "Rwanda",
-    "region": "AFRICA",
-    "rank": 75,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 20
   },
   {
@@ -3665,26 +3307,8 @@
     "country": "Zimbabwe",
     "region": "AFRICA",
     "rank": 61,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 21
-  },
-  {
-    "code": "ZW",
-    "country": "Zimbabwe",
-    "region": "AFRICA",
-    "rank": 61,
     "visa_free_count": 52,
     "year": 2008,
-    "region_rank_2025": 21
-  },
-  {
-    "code": "ZW",
-    "country": "Zimbabwe",
-    "region": "AFRICA",
-    "rank": 58,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 21
   },
   {
@@ -3845,26 +3469,8 @@
     "country": "Mozambique",
     "region": "AFRICA",
     "rank": 75,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 22
-  },
-  {
-    "code": "MZ",
-    "country": "Mozambique",
-    "region": "AFRICA",
-    "rank": 75,
     "visa_free_count": 37,
     "year": 2008,
-    "region_rank_2025": 22
-  },
-  {
-    "code": "MZ",
-    "country": "Mozambique",
-    "region": "AFRICA",
-    "rank": 74,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 22
   },
   {
@@ -3923,7 +3529,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 88,
     "visa_free_count": 60,
@@ -3932,7 +3538,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 79,
     "visa_free_count": 61,
@@ -3941,7 +3547,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 83,
     "visa_free_count": 58,
@@ -3950,7 +3556,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 81,
     "visa_free_count": 55,
@@ -3959,7 +3565,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 83,
     "visa_free_count": 54,
@@ -3968,7 +3574,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 89,
     "visa_free_count": 50,
@@ -3977,7 +3583,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 74,
     "visa_free_count": 54,
@@ -3986,7 +3592,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 76,
     "visa_free_count": 50,
@@ -3995,7 +3601,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 85,
     "visa_free_count": 48,
@@ -4004,7 +3610,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 85,
     "visa_free_count": 45,
@@ -4013,7 +3619,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 83,
     "visa_free_count": 44,
@@ -4022,16 +3628,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
-    "region": "AFRICA",
-    "rank": 75,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 23
-  },
-  {
-    "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 75,
     "visa_free_count": 37,
@@ -4040,16 +3637,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
-    "region": "AFRICA",
-    "rank": 74,
-    "visa_free_count": 0,
-    "year": 2007,
-    "region_rank_2025": 23
-  },
-  {
-    "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 74,
     "visa_free_count": 22,
@@ -4058,7 +3646,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 81,
     "visa_free_count": 60,
@@ -4067,7 +3655,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 83,
     "visa_free_count": 60,
@@ -4076,7 +3664,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 84,
     "visa_free_count": 60,
@@ -4085,7 +3673,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 81,
     "visa_free_count": 61,
@@ -4094,7 +3682,7 @@
   },
   {
     "code": "ST",
-    "country": "Sao Tome and Principe",
+    "country": "Sao Tome & Princ.",
     "region": "AFRICA",
     "rank": 73,
     "visa_free_count": 61,
@@ -4205,26 +3793,8 @@
     "country": "Togo",
     "region": "AFRICA",
     "rank": 69,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 24
-  },
-  {
-    "code": "TG",
-    "country": "Togo",
-    "region": "AFRICA",
-    "rank": 69,
     "visa_free_count": 43,
     "year": 2008,
-    "region_rank_2025": 24
-  },
-  {
-    "code": "TG",
-    "country": "Togo",
-    "region": "AFRICA",
-    "rank": 65,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 24
   },
   {
@@ -4385,26 +3955,8 @@
     "country": "Burkina Faso",
     "region": "AFRICA",
     "rank": 68,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 25
-  },
-  {
-    "code": "BF",
-    "country": "Burkina Faso",
-    "region": "AFRICA",
-    "rank": 68,
     "visa_free_count": 44,
     "year": 2008,
-    "region_rank_2025": 25
-  },
-  {
-    "code": "BF",
-    "country": "Burkina Faso",
-    "region": "AFRICA",
-    "rank": 65,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 25
   },
   {
@@ -4556,7 +4108,6 @@
     "country": "Cote d'Ivoire",
     "region": "AFRICA",
     "rank": 72,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 26
   },
@@ -4565,16 +4116,6 @@
     "country": "Cote d'Ivoire",
     "region": "AFRICA",
     "rank": 65,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 26
-  },
-  {
-    "code": "CI",
-    "country": "Cote d'Ivoire",
-    "region": "AFRICA",
-    "rank": 65,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 26
   },
@@ -4601,16 +4142,6 @@
     "country": "Cote d'Ivoire",
     "region": "AFRICA",
     "rank": 65,
-    "visa_free_count": 0,
-    "year": 2007,
-    "region_rank_2025": 26
-  },
-  {
-    "code": "CI",
-    "country": "Cote d'Ivoire",
-    "region": "AFRICA",
-    "rank": 65,
-    "visa_free_count": 0,
     "year": 2006,
     "region_rank_2025": 26
   },
@@ -4745,26 +4276,8 @@
     "country": "Senegal",
     "region": "AFRICA",
     "rank": 64,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 27
-  },
-  {
-    "code": "SN",
-    "country": "Senegal",
-    "region": "AFRICA",
-    "rank": 64,
     "visa_free_count": 48,
     "year": 2008,
-    "region_rank_2025": 27
-  },
-  {
-    "code": "SN",
-    "country": "Senegal",
-    "region": "AFRICA",
-    "rank": 62,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 27
   },
   {
@@ -4925,26 +4438,8 @@
     "country": "Gabon",
     "region": "AFRICA",
     "rank": 77,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 28
-  },
-  {
-    "code": "GA",
-    "country": "Gabon",
-    "region": "AFRICA",
-    "rank": 77,
     "visa_free_count": 35,
     "year": 2008,
-    "region_rank_2025": 28
-  },
-  {
-    "code": "GA",
-    "country": "Gabon",
-    "region": "AFRICA",
-    "rank": 74,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 28
   },
   {
@@ -5105,26 +4600,8 @@
     "country": "Madagascar",
     "region": "AFRICA",
     "rank": 73,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 29
-  },
-  {
-    "code": "MG",
-    "country": "Madagascar",
-    "region": "AFRICA",
-    "rank": 73,
     "visa_free_count": 39,
     "year": 2008,
-    "region_rank_2025": 29
-  },
-  {
-    "code": "MG",
-    "country": "Madagascar",
-    "region": "AFRICA",
-    "rank": 72,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 29
   },
   {
@@ -5285,26 +4762,8 @@
     "country": "Guinea",
     "region": "AFRICA",
     "rank": 66,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 30
-  },
-  {
-    "code": "GN",
-    "country": "Guinea",
-    "region": "AFRICA",
-    "rank": 66,
     "visa_free_count": 46,
     "year": 2008,
-    "region_rank_2025": 30
-  },
-  {
-    "code": "GN",
-    "country": "Guinea",
-    "region": "AFRICA",
-    "rank": 63,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 30
   },
   {
@@ -5465,26 +4924,8 @@
     "country": "Mauritania",
     "region": "AFRICA",
     "rank": 63,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 31
-  },
-  {
-    "code": "MR",
-    "country": "Mauritania",
-    "region": "AFRICA",
-    "rank": 63,
     "visa_free_count": 49,
     "year": 2008,
-    "region_rank_2025": 31
-  },
-  {
-    "code": "MR",
-    "country": "Mauritania",
-    "region": "AFRICA",
-    "rank": 60,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 31
   },
   {
@@ -5645,26 +5086,8 @@
     "country": "Niger",
     "region": "AFRICA",
     "rank": 65,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 32
-  },
-  {
-    "code": "NE",
-    "country": "Niger",
-    "region": "AFRICA",
-    "rank": 65,
     "visa_free_count": 47,
     "year": 2008,
-    "region_rank_2025": 32
-  },
-  {
-    "code": "NE",
-    "country": "Niger",
-    "region": "AFRICA",
-    "rank": 62,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 32
   },
   {
@@ -5825,26 +5248,8 @@
     "country": "Equatorial Guinea",
     "region": "AFRICA",
     "rank": 82,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 33
-  },
-  {
-    "code": "GQ",
-    "country": "Equatorial Guinea",
-    "region": "AFRICA",
-    "rank": 82,
     "visa_free_count": 30,
     "year": 2008,
-    "region_rank_2025": 33
-  },
-  {
-    "code": "GQ",
-    "country": "Equatorial Guinea",
-    "region": "AFRICA",
-    "rank": 79,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 33
   },
   {
@@ -6005,26 +5410,8 @@
     "country": "Algeria",
     "region": "AFRICA",
     "rank": 76,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 34
-  },
-  {
-    "code": "DZ",
-    "country": "Algeria",
-    "region": "AFRICA",
-    "rank": 76,
     "visa_free_count": 36,
     "year": 2008,
-    "region_rank_2025": 34
-  },
-  {
-    "code": "DZ",
-    "country": "Algeria",
-    "region": "AFRICA",
-    "rank": 74,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 34
   },
   {
@@ -6185,26 +5572,8 @@
     "country": "Mali",
     "region": "AFRICA",
     "rank": 65,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 35
-  },
-  {
-    "code": "ML",
-    "country": "Mali",
-    "region": "AFRICA",
-    "rank": 65,
     "visa_free_count": 47,
     "year": 2008,
-    "region_rank_2025": 35
-  },
-  {
-    "code": "ML",
-    "country": "Mali",
-    "region": "AFRICA",
-    "rank": 62,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 35
   },
   {
@@ -6365,26 +5734,8 @@
     "country": "Guinea-Bissau",
     "region": "AFRICA",
     "rank": 70,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 36
-  },
-  {
-    "code": "GW",
-    "country": "Guinea-Bissau",
-    "region": "AFRICA",
-    "rank": 70,
     "visa_free_count": 42,
     "year": 2008,
-    "region_rank_2025": 36
-  },
-  {
-    "code": "GW",
-    "country": "Guinea-Bissau",
-    "region": "AFRICA",
-    "rank": 66,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 36
   },
   {
@@ -6536,7 +5887,6 @@
     "country": "Chad",
     "region": "AFRICA",
     "rank": 82,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 37
   },
@@ -6545,16 +5895,6 @@
     "country": "Chad",
     "region": "AFRICA",
     "rank": 75,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 37
-  },
-  {
-    "code": "TD",
-    "country": "Chad",
-    "region": "AFRICA",
-    "rank": 75,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 37
   },
@@ -6635,7 +5975,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 88,
-    "visa_free_count": 0,
     "year": 2017,
     "region_rank_2025": 38
   },
@@ -6644,7 +5983,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 90,
-    "visa_free_count": 0,
     "year": 2016,
     "region_rank_2025": 38
   },
@@ -6653,7 +5991,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 94,
-    "visa_free_count": 0,
     "year": 2015,
     "region_rank_2025": 38
   },
@@ -6662,7 +5999,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 83,
-    "visa_free_count": 0,
     "year": 2014,
     "region_rank_2025": 38
   },
@@ -6671,7 +6007,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 83,
-    "visa_free_count": 0,
     "year": 2013,
     "region_rank_2025": 38
   },
@@ -6680,7 +6015,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 92,
-    "visa_free_count": 0,
     "year": 2012,
     "region_rank_2025": 38
   },
@@ -6689,7 +6023,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 92,
-    "visa_free_count": 0,
     "year": 2011,
     "region_rank_2025": 38
   },
@@ -6698,7 +6031,6 @@
     "country": "Comoro Islands",
     "region": "AFRICA",
     "rank": 89,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 38
   },
@@ -6706,17 +6038,7 @@
     "code": "KM",
     "country": "Comoro Islands",
     "region": "AFRICA",
-    "rank": 85,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 38
-  },
-  {
-    "code": "KM",
-    "country": "Comoro Islands",
-    "region": "AFRICA",
     "rank": 81,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 38
   },
@@ -6767,7 +6089,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 96,
     "visa_free_count": 52,
@@ -6776,7 +6098,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 88,
     "visa_free_count": 52,
@@ -6785,7 +6107,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 92,
     "visa_free_count": 49,
@@ -6794,7 +6116,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 89,
     "visa_free_count": 46,
@@ -6803,7 +6125,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 89,
     "visa_free_count": 48,
@@ -6812,7 +6134,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 95,
     "visa_free_count": 44,
@@ -6821,7 +6143,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 80,
     "visa_free_count": 48,
@@ -6830,7 +6152,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 77,
     "visa_free_count": 49,
@@ -6839,7 +6161,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 86,
     "visa_free_count": 47,
@@ -6848,7 +6170,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 86,
     "visa_free_count": 44,
@@ -6857,7 +6179,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 81,
     "visa_free_count": 46,
@@ -6866,16 +6188,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
-    "region": "AFRICA",
-    "rank": 75,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 39
-  },
-  {
-    "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 75,
     "visa_free_count": 37,
@@ -6884,16 +6197,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
-    "region": "AFRICA",
-    "rank": 71,
-    "visa_free_count": 0,
-    "year": 2007,
-    "region_rank_2025": 39
-  },
-  {
-    "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 68,
     "visa_free_count": 28,
@@ -6902,7 +6206,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 90,
     "visa_free_count": 51,
@@ -6911,7 +6215,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 91,
     "visa_free_count": 52,
@@ -6920,7 +6224,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 91,
     "visa_free_count": 52,
@@ -6929,7 +6233,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 87,
     "visa_free_count": 55,
@@ -6938,7 +6242,7 @@
   },
   {
     "code": "CF",
-    "country": "Central African Republic",
+    "country": "Centr. African Rep.",
     "region": "AFRICA",
     "rank": 82,
     "visa_free_count": 51,
@@ -7049,26 +6353,8 @@
     "country": "Liberia",
     "region": "AFRICA",
     "rank": 72,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 40
-  },
-  {
-    "code": "LR",
-    "country": "Liberia",
-    "region": "AFRICA",
-    "rank": 72,
     "visa_free_count": 40,
     "year": 2008,
-    "region_rank_2025": 40
-  },
-  {
-    "code": "LR",
-    "country": "Liberia",
-    "region": "AFRICA",
-    "rank": 68,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 40
   },
   {
@@ -7229,26 +6515,8 @@
     "country": "Cameroon",
     "region": "AFRICA",
     "rank": 75,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 41
-  },
-  {
-    "code": "CM",
-    "country": "Cameroon",
-    "region": "AFRICA",
-    "rank": 75,
     "visa_free_count": 37,
     "year": 2008,
-    "region_rank_2025": 41
-  },
-  {
-    "code": "CM",
-    "country": "Cameroon",
-    "region": "AFRICA",
-    "rank": 72,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 41
   },
   {
@@ -7400,7 +6668,6 @@
     "country": "Egypt",
     "region": "AFRICA",
     "rank": 84,
-    "visa_free_count": 0,
     "year": 2010,
     "region_rank_2025": 42
   },
@@ -7409,16 +6676,6 @@
     "country": "Egypt",
     "region": "AFRICA",
     "rank": 78,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 42
-  },
-  {
-    "code": "EG",
-    "country": "Egypt",
-    "region": "AFRICA",
-    "rank": 78,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 42
   },
@@ -7571,26 +6828,8 @@
     "country": "Angola",
     "region": "AFRICA",
     "rank": 81,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 43
-  },
-  {
-    "code": "AO",
-    "country": "Angola",
-    "region": "AFRICA",
-    "rank": 81,
     "visa_free_count": 31,
     "year": 2008,
-    "region_rank_2025": 43
-  },
-  {
-    "code": "AO",
-    "country": "Angola",
-    "region": "AFRICA",
-    "rank": 79,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 43
   },
   {
@@ -7751,26 +6990,8 @@
     "country": "Burundi",
     "region": "AFRICA",
     "rank": 82,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 44
-  },
-  {
-    "code": "BI",
-    "country": "Burundi",
-    "region": "AFRICA",
-    "rank": 82,
     "visa_free_count": 30,
     "year": 2008,
-    "region_rank_2025": 44
-  },
-  {
-    "code": "BI",
-    "country": "Burundi",
-    "region": "AFRICA",
-    "rank": 80,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 44
   },
   {
@@ -7931,26 +7152,8 @@
     "country": "Congo (Rep.)",
     "region": "AFRICA",
     "rank": 76,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 45
-  },
-  {
-    "code": "CG",
-    "country": "Congo (Rep.)",
-    "region": "AFRICA",
-    "rank": 76,
     "visa_free_count": 36,
     "year": 2008,
-    "region_rank_2025": 45
-  },
-  {
-    "code": "CG",
-    "country": "Congo (Rep.)",
-    "region": "AFRICA",
-    "rank": 72,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 45
   },
   {
@@ -8111,26 +7314,8 @@
     "country": "Djibouti",
     "region": "AFRICA",
     "rank": 84,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 46
-  },
-  {
-    "code": "DJ",
-    "country": "Djibouti",
-    "region": "AFRICA",
-    "rank": 84,
     "visa_free_count": 28,
     "year": 2008,
-    "region_rank_2025": 46
-  },
-  {
-    "code": "DJ",
-    "country": "Djibouti",
-    "region": "AFRICA",
-    "rank": 80,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 46
   },
   {
@@ -8291,26 +7476,8 @@
     "country": "Ethiopia",
     "region": "AFRICA",
     "rank": 83,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 47
-  },
-  {
-    "code": "ET",
-    "country": "Ethiopia",
-    "region": "AFRICA",
-    "rank": 83,
     "visa_free_count": 29,
     "year": 2008,
-    "region_rank_2025": 47
-  },
-  {
-    "code": "ET",
-    "country": "Ethiopia",
-    "region": "AFRICA",
-    "rank": 80,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 47
   },
   {
@@ -8471,26 +7638,8 @@
     "country": "Nigeria",
     "region": "AFRICA",
     "rank": 67,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 48
-  },
-  {
-    "code": "NG",
-    "country": "Nigeria",
-    "region": "AFRICA",
-    "rank": 67,
     "visa_free_count": 45,
     "year": 2008,
-    "region_rank_2025": 48
-  },
-  {
-    "code": "NG",
-    "country": "Nigeria",
-    "region": "AFRICA",
-    "rank": 64,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 48
   },
   {
@@ -8650,17 +7799,7 @@
     "code": "CD",
     "country": "Congo (Dem. Rep.)",
     "region": "AFRICA",
-    "rank": 89,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 49
-  },
-  {
-    "code": "CD",
-    "country": "Congo (Dem. Rep.)",
-    "region": "AFRICA",
     "rank": 90,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 49
   },
@@ -8813,16 +7952,6 @@
     "country": "South Sudan",
     "region": "AFRICA",
     "rank": 86,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 50
-  },
-  {
-    "code": "SS",
-    "country": "South Sudan",
-    "region": "AFRICA",
-    "rank": 86,
-    "visa_free_count": 0,
     "year": 2008,
     "region_rank_2025": 50
   },
@@ -8975,26 +8104,8 @@
     "country": "Sudan",
     "region": "AFRICA",
     "rank": 86,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 51
-  },
-  {
-    "code": "SD",
-    "country": "Sudan",
-    "region": "AFRICA",
-    "rank": 86,
     "visa_free_count": 26,
     "year": 2008,
-    "region_rank_2025": 51
-  },
-  {
-    "code": "SD",
-    "country": "Sudan",
-    "region": "AFRICA",
-    "rank": 82,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 51
   },
   {
@@ -9155,26 +8266,8 @@
     "country": "Eritrea",
     "region": "AFRICA",
     "rank": 83,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 52
-  },
-  {
-    "code": "ER",
-    "country": "Eritrea",
-    "region": "AFRICA",
-    "rank": 83,
     "visa_free_count": 29,
     "year": 2008,
-    "region_rank_2025": 52
-  },
-  {
-    "code": "ER",
-    "country": "Eritrea",
-    "region": "AFRICA",
-    "rank": 79,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 52
   },
   {
@@ -9335,26 +8428,8 @@
     "country": "Libya",
     "region": "AFRICA",
     "rank": 80,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 53
-  },
-  {
-    "code": "LY",
-    "country": "Libya",
-    "region": "AFRICA",
-    "rank": 80,
     "visa_free_count": 32,
     "year": 2008,
-    "region_rank_2025": 53
-  },
-  {
-    "code": "LY",
-    "country": "Libya",
-    "region": "AFRICA",
-    "rank": 78,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 53
   },
   {
@@ -9515,26 +8590,8 @@
     "country": "Somalia",
     "region": "AFRICA",
     "rank": 87,
-    "visa_free_count": 0,
-    "year": 2009,
-    "region_rank_2025": 54
-  },
-  {
-    "code": "SO",
-    "country": "Somalia",
-    "region": "AFRICA",
-    "rank": 87,
     "visa_free_count": 25,
     "year": 2008,
-    "region_rank_2025": 54
-  },
-  {
-    "code": "SO",
-    "country": "Somalia",
-    "region": "AFRICA",
-    "rank": 84,
-    "visa_free_count": 0,
-    "year": 2007,
     "region_rank_2025": 54
   },
   {

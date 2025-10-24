@@ -43,7 +43,7 @@ rank_by_year <- tuesdata$rank_by_year
 #                 ~map(.x, ~fromJSON(.x)[[1]] |> tibble())))
 
 
-rank_by_year$year <- as.integer(rank_by_year$year)
+# Convert vars to integers:
 rank_by_year[, c("rank", "visa_free_count", "year")] <- lapply(rank_by_year[, c("rank", "visa_free_count", "year")], as.integer)
 
 
@@ -115,13 +115,17 @@ asia <- replaceNames(asia, 3, asia_names_old, asia_names_new)
 
 # Europe:
 europe <- filterByRegion(rank_by_year, "EUROPE")
-#europe <- cleanRegionData(europe, replace_0="yes", remove_0709="yes")
-#europe <- replaceNames(europe, n, europe_names_old, europe_names_new)
+europe <- cleanRegionData(europe, replace_0="yes", remove_0709="yes")
+europe_names_old <- list('Bosnia and Herzegovina', 'Russian Federation')
+europe_names_new <- list('Bosnia (B&H)', 'Russian Fed.')
+europe <- replaceNames(europe, 2, europe_names_old, europe_names_new)
 
 # Africa:
 africa <- filterByRegion(rank_by_year, "AFRICA")
-#africa <- cleanRegionData(africa, replace_0="yes", remove_0709="yes")
-#africa <- replaceNames(africa, n, africa_names_old, africa_names_new)
+africa <- cleanRegionData(africa, replace_0="yes", remove_0709="yes")
+africa_names_old <- list('Cape Verde Islands', 'Central African Republic', 'Sao Tome and Principe')
+africa_names_new <- list('Cape Verde Isl.', 'Centr. African Rep.', 'Sao Tome & Princ.')
+africa <- replaceNames(africa, 3, africa_names_old, africa_names_new)
 
 
 ## Export to JSON:
