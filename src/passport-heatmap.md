@@ -21,6 +21,11 @@ import * as Inputs from "npm:@observablehq/inputs";
 ```
 
 ```js
+import { plotPassportHeatmap } from './components/passport-heatmap.js';
+```
+
+<!-- Define Region Data -->
+```js
 const asia_data = await FileAttachment("data/asia-passport.json").json();
 // Convert visa_free_count to integer:
 asia_data.visa_free_count = Math.round(asia_data.visa_free_count)
@@ -30,9 +35,7 @@ const asiaCountryOrder = asia_data.map(d => d.country);
 
 ```js
 const europe_data = await FileAttachment("data/europe-passport.json").json();
-// Convert visa_free_count to integer:
 europe_data.visa_free_count = Math.round(europe_data.visa_free_count)
-// Create a data order by how the countries are ordered the JSON
 const europeCountryOrder = europe_data.map(d => d.country);
 ```
 
@@ -42,65 +45,33 @@ africa_data.visa_free_count = Math.round(africa_data.visa_free_count)
 const africaCountryOrder = africa_data.map(d => d.country);
 ```
 
-
-
 ```js
-const asia_heatmap = Plot.plot({
-    padding: 0,
-    grid: true,
-    x: {axis: "top", label: "Year", tickFormat: ""},
-    y: {
-        label: "Country",
-        domain: asiaCountryOrder
-    },
-    color: {type: "linear", scheme: "PiYG"},
-    marks: [
-        Plot.cell(asia_data, {x: "year", y: "country", fill: "visa_free_count", inset: 0.7}),
-        Plot.text(asia_data, {x: "year", y: "country", text: (d) => Math.round(d.visa_free_count?.toFixed(1)), fill: "black", title: "title"})
-    ],
-    marginLeft: 100,
-});
+const caribbean_data = await FileAttachment("data/caribbean-passport.json").json();
+caribbean_data.visa_free_count = Math.round(caribbean_data.visa_free_count)
+const caribbeanCountryOrder = caribbean_data.map(d => d.country);
+```
+
+<!-- Define Region Heatmaps -->
+```js
+const asia_heatmap = plotPassportHeatmap(asia_data, asiaCountryOrder);
 ```
 
 ```js
-const europe_heatmap = Plot.plot({
-    padding: 0,
-    grid: true,
-    x: {axis: "top", label: "Year", tickFormat: ""},
-    y: {
-        label: "Country",
-        domain: europeCountryOrder
-    },
-    color: {type: "linear", scheme: "PiYG"},
-    marks: [
-        Plot.cell(europe_data, {x: "year", y: "country", fill: "visa_free_count", inset: 0.7}),
-        Plot.text(europe_data, {x: "year", y: "country", text: (d) => Math.round(d.visa_free_count?.toFixed(1)), fill: "black", title: "title"})
-    ],
-    marginLeft: 100,
-});
+const europe_heatmap = plotPassportHeatmap(europe_data, europeCountryOrder);
 ```
 
 ```js
-const africa_heatmap = Plot.plot({
-    padding: 0,
-    grid: true,
-    x: {axis: "top", label: "Year", tickFormat: ""},
-    y: {
-        label: "Country",
-        domain: africaCountryOrder
-    },
-    color: {type: "linear", scheme: "PiYG"},
-    marks: [
-        Plot.cell(africa_data, {x: "year", y: "country", fill: "visa_free_count", inset: 0.7}),
-        Plot.text(africa_data, {x: "year", y: "country", text: (d) => Math.round(d.visa_free_count?.toFixed(1)), fill: "black", title: "title"})
-    ],
-    marginLeft: 100,
-});
+const africa_heatmap = plotPassportHeatmap(africa_data, africaCountryOrder);
+```
+
+```js
+const caribbean_heatmap = plotPassportHeatmap(caribbean_data, caribbeanCountryOrder);
 ```
 
 
+
 ```js
-const inputViz = Inputs.select(["Asia", "Europe", "Africa"], {value: "Asia"});
+const inputViz = Inputs.select(["Asia", "Europe", "Africa", "Caribbean"], {value: "Asia"});
 // WITH LABEL: 
         // const inputViz = Inputs.select(["Asia", "Europe"], {value: "Asia", label: "Select a Region:"});
 // https://observablehq.com/framework/inputs/select
@@ -119,6 +90,7 @@ const selection = Generators.input(inputViz);
             ${selection === "Asia" ? asia_heatmap
             : selection === "Europe" ? europe_heatmap
             : selection === "Africa" ? africa_heatmap
+            : selection === "Caribbean" ? caribbean_heatmap
             : null}
         </div>
         <div>

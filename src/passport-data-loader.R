@@ -127,9 +127,19 @@ africa_names_old <- list('Cape Verde Islands', 'Central African Republic', 'Sao 
 africa_names_new <- list('Cape Verde Isl.', 'Centr. African Rep.', 'Sao Tome & Princ.')
 africa <- replaceNames(africa, 3, africa_names_old, africa_names_new)
 
+# Caribbean:
+caribbean <- filterByRegion(rank_by_year, "CARIBBEAN")
+caribbean <- cleanRegionData(caribbean, replace_0="yes", remove_0709="yes")
+caribbean_names_old <- list('Dominican Republic', 'St. Vincent and the Grenadines', 'Trinidad and Tobago',
+                            'Antigua and Barbuda')
+caribbean_names_new <- list('Dominican Rep.', 'St. Vincent (SVG)', 'Trinidad & Tob.',
+                            'Antigua & Barbuda')
+caribbean <- replaceNames(caribbean, 4, caribbean_names_old, caribbean_names_new)
+
 
 ## Export to JSON:
-region_df_list <- list("asia"=asia, "europe"=europe, "africa"=africa)
+region_df_list <- list("asia"=asia, "europe"=europe, "africa"=africa,
+                       "caribbean"=caribbean)
 dfWriteJSON(region_df_list)
 
 
