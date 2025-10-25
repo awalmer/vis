@@ -6,7 +6,7 @@ export function plotPassportHeatmap(regionData, countryOrder) {
     grid: true,
     x: {axis: "top", label: "Year", tickFormat: ""},
     y: {
-        label: "Country",
+        label: "Country",  
         domain: countryOrder
     },
     color: {type: "linear", scheme: "PiYG"},
