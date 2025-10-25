@@ -51,6 +51,24 @@ caribbean_data.visa_free_count = Math.round(caribbean_data.visa_free_count)
 const caribbeanCountryOrder = caribbean_data.map(d => d.country);
 ```
 
+```js
+const oceania_data = await FileAttachment("data/oceania-passport.json").json();
+oceania_data.visa_free_count = Math.round(oceania_data.visa_free_count)
+const oceaniaCountryOrder = oceania_data.map(d => d.country);
+```
+
+```js
+const mideast_data = await FileAttachment("data/mideast-passport.json").json();
+mideast_data.visa_free_count = Math.round(mideast_data.visa_free_count)
+const mideastCountryOrder = mideast_data.map(d => d.country);
+```
+
+```js
+const americas_data = await FileAttachment("data/americas-passport.json").json();
+americas_data.visa_free_count = Math.round(americas_data.visa_free_count)
+const americasCountryOrder = americas_data.map(d => d.country);
+```
+
 <!-- Define Region Heatmaps -->
 ```js
 const asia_heatmap = plotPassportHeatmap(asia_data, asiaCountryOrder);
@@ -68,10 +86,21 @@ const africa_heatmap = plotPassportHeatmap(africa_data, africaCountryOrder);
 const caribbean_heatmap = plotPassportHeatmap(caribbean_data, caribbeanCountryOrder);
 ```
 
+```js
+const oceania_heatmap = plotPassportHeatmap(oceania_data, oceaniaCountryOrder);
+```
+
+```js
+const mideast_heatmap = plotPassportHeatmap(mideast_data, mideastCountryOrder);
+```
+
+```js
+const americas_heatmap = plotPassportHeatmap(americas_data, americasCountryOrder);
+```
 
 
 ```js
-const inputViz = Inputs.select(["Asia", "Europe", "Africa", "Caribbean"], {value: "Asia"});
+const inputViz = Inputs.select(["Asia", "Europe", "Africa", "Caribbean", "Oceania", "Middle East", "Americas"], {value: "Asia"});
 // WITH LABEL: 
         // const inputViz = Inputs.select(["Asia", "Europe"], {value: "Asia", label: "Select a Region:"});
 // https://observablehq.com/framework/inputs/select
@@ -91,6 +120,9 @@ const selection = Generators.input(inputViz);
             : selection === "Europe" ? europe_heatmap
             : selection === "Africa" ? africa_heatmap
             : selection === "Caribbean" ? caribbean_heatmap
+            : selection === "Oceania" ? oceania_heatmap
+            : selection === "Middle East" ? mideast_heatmap
+            : selection === "Americas" ? americas_heatmap
             : null}
         </div>
         <div>

@@ -136,10 +136,32 @@ caribbean_names_new <- list('Dominican Rep.', 'St. Vincent (SVG)', 'Trinidad & T
                             'Antigua & Barbuda')
 caribbean <- replaceNames(caribbean, 4, caribbean_names_old, caribbean_names_new)
 
+# Oceania:
+oceania <- filterByRegion(rank_by_year, "OCEANIA")
+oceania <- cleanRegionData(oceania, replace_0="yes", remove_0709="yes")
+#oceania_names_old <- list('','','')
+#oceania_names_new <- list('','','')
+#oceania <- replaceNames(oceania, 3, oceania_names_old, oceania_names_new)
+
+# Middle East:
+mideast <- filterByRegion(rank_by_year, "MIDDLE EAST")
+mideast <- cleanRegionData(mideast, replace_0="yes", remove_0709="yes")
+mideast_names_old <- list('United Arab Emirates','Palestinian Territory')
+mideast_names_new <- list('Utd. Arab Emirates','Palestinian Territ.')
+mideast <- replaceNames(mideast, 2, mideast_names_old, mideast_names_new)
+
+# Americas:
+americas <- filterByRegion(rank_by_year, "AMERICAS")
+americas <- cleanRegionData(americas, replace_0="yes", remove_0709="yes")
+#americas_names_old <- list('','','')
+#americas_names_new <- list('','','')
+#americas <- replaceNames(americas, 2, americas_names_old, americas_names_new)
+
 
 ## Export to JSON:
 region_df_list <- list("asia"=asia, "europe"=europe, "africa"=africa,
-                       "caribbean"=caribbean)
+                       "caribbean"=caribbean, "oceania"=oceania,
+                       "mideast"=mideast, "americas"=americas)
 dfWriteJSON(region_df_list)
 
 

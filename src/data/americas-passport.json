@@ -1,0 +1,3566 @@
+[
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 8,
+    "visa_free_count": 184,
+    "year": 2021,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 185,
+    "year": 2018,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 9,
+    "visa_free_count": 183,
+    "year": 2020,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 171,
+    "year": 2017,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 172,
+    "year": 2016,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 4,
+    "visa_free_count": 170,
+    "year": 2015,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 2,
+    "visa_free_count": 173,
+    "year": 2014,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 4,
+    "visa_free_count": 170,
+    "year": 2013,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 163,
+    "year": 2012,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 9,
+    "visa_free_count": 164,
+    "year": 2011,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 9,
+    "visa_free_count": 157,
+    "year": 2010,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 4,
+    "visa_free_count": 154,
+    "year": 2008,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 184,
+    "year": 2019,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 125,
+    "year": 2006,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 185,
+    "year": 2022,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 8,
+    "visa_free_count": 185,
+    "year": 2023,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 188,
+    "year": 2024,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "region": "AMERICAS",
+    "rank": 8,
+    "visa_free_count": 184,
+    "year": 2025,
+    "region_rank_2025": 1
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 185,
+    "year": 2021,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 5,
+    "visa_free_count": 186,
+    "year": 2018,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 185,
+    "year": 2020,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 184,
+    "year": 2019,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 5,
+    "visa_free_count": 172,
+    "year": 2017,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 4,
+    "visa_free_count": 174,
+    "year": 2016,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 2,
+    "visa_free_count": 172,
+    "year": 2015,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 1,
+    "visa_free_count": 174,
+    "year": 2014,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 2,
+    "visa_free_count": 172,
+    "year": 2013,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 4,
+    "visa_free_count": 166,
+    "year": 2012,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 5,
+    "visa_free_count": 169,
+    "year": 2011,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 159,
+    "year": 2010,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 3,
+    "visa_free_count": 155,
+    "year": 2008,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 1,
+    "visa_free_count": 130,
+    "year": 2006,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 6,
+    "visa_free_count": 186,
+    "year": 2022,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 186,
+    "year": 2023,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 7,
+    "visa_free_count": 188,
+    "year": 2024,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "region": "AMERICAS",
+    "rank": 10,
+    "visa_free_count": 182,
+    "year": 2025,
+    "region_rank_2025": 2
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 16,
+    "visa_free_count": 174,
+    "year": 2021,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 14,
+    "visa_free_count": 174,
+    "year": 2018,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 15,
+    "visa_free_count": 174,
+    "year": 2020,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 17,
+    "visa_free_count": 157,
+    "year": 2017,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 19,
+    "visa_free_count": 155,
+    "year": 2016,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 150,
+    "year": 2015,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 18,
+    "visa_free_count": 149,
+    "year": 2014,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 21,
+    "visa_free_count": 141,
+    "year": 2013,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 26,
+    "visa_free_count": 137,
+    "year": 2012,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 24,
+    "visa_free_count": 141,
+    "year": 2011,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 131,
+    "year": 2010,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 127,
+    "year": 2008,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 13,
+    "visa_free_count": 174,
+    "year": 2019,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 14,
+    "visa_free_count": 109,
+    "year": 2006,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 16,
+    "visa_free_count": 174,
+    "year": 2022,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 18,
+    "visa_free_count": 174,
+    "year": 2023,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 15,
+    "visa_free_count": 177,
+    "year": 2024,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "CL",
+    "country": "Chile",
+    "region": "AMERICAS",
+    "rank": 14,
+    "visa_free_count": 176,
+    "year": 2025,
+    "region_rank_2025": 3
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 170,
+    "year": 2021,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 17,
+    "visa_free_count": 170,
+    "year": 2018,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 18,
+    "visa_free_count": 170,
+    "year": 2020,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 154,
+    "year": 2017,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 22,
+    "visa_free_count": 152,
+    "year": 2016,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 150,
+    "year": 2015,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 17,
+    "visa_free_count": 150,
+    "year": 2014,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 18,
+    "visa_free_count": 147,
+    "year": 2013,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 140,
+    "year": 2012,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 24,
+    "visa_free_count": 141,
+    "year": 2011,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 26,
+    "visa_free_count": 132,
+    "year": 2010,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 127,
+    "year": 2008,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 17,
+    "visa_free_count": 170,
+    "year": 2019,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 19,
+    "visa_free_count": 101,
+    "year": 2006,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 19,
+    "visa_free_count": 170,
+    "year": 2022,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 170,
+    "year": 2023,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 16,
+    "visa_free_count": 174,
+    "year": 2024,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "AR",
+    "country": "Argentina",
+    "region": "AMERICAS",
+    "rank": 16,
+    "visa_free_count": 170,
+    "year": 2025,
+    "region_rank_2025": 4
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 170,
+    "year": 2021,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 16,
+    "visa_free_count": 171,
+    "year": 2018,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 18,
+    "visa_free_count": 170,
+    "year": 2020,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 18,
+    "visa_free_count": 156,
+    "year": 2017,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 21,
+    "visa_free_count": 153,
+    "year": 2016,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 22,
+    "visa_free_count": 148,
+    "year": 2015,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 21,
+    "visa_free_count": 146,
+    "year": 2014,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 19,
+    "visa_free_count": 146,
+    "year": 2013,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 22,
+    "visa_free_count": 141,
+    "year": 2012,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 25,
+    "visa_free_count": 140,
+    "year": 2011,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 130,
+    "year": 2010,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 122,
+    "year": 2008,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 17,
+    "visa_free_count": 170,
+    "year": 2019,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 99,
+    "year": 2006,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 169,
+    "year": 2022,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 170,
+    "year": 2023,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 17,
+    "visa_free_count": 173,
+    "year": 2024,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "region": "AMERICAS",
+    "rank": 16,
+    "visa_free_count": 170,
+    "year": 2025,
+    "region_rank_2025": 5
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 25,
+    "visa_free_count": 158,
+    "year": 2021,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 22,
+    "visa_free_count": 158,
+    "year": 2018,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 24,
+    "visa_free_count": 159,
+    "year": 2020,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 158,
+    "year": 2019,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 26,
+    "visa_free_count": 142,
+    "year": 2017,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 139,
+    "year": 2016,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 133,
+    "year": 2015,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 133,
+    "year": 2014,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 132,
+    "year": 2013,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 127,
+    "year": 2012,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 129,
+    "year": 2011,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 120,
+    "year": 2010,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 114,
+    "year": 2008,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 21,
+    "visa_free_count": 98,
+    "year": 2006,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 24,
+    "visa_free_count": 159,
+    "year": 2022,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 25,
+    "visa_free_count": 159,
+    "year": 2023,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 161,
+    "year": 2024,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "region": "AMERICAS",
+    "rank": 21,
+    "visa_free_count": 158,
+    "year": 2025,
+    "region_rank_2025": 6
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 153,
+    "year": 2021,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 24,
+    "visa_free_count": 154,
+    "year": 2018,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 153,
+    "year": 2020,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 25,
+    "visa_free_count": 153,
+    "year": 2019,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 138,
+    "year": 2017,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 137,
+    "year": 2016,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 134,
+    "year": 2015,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 133,
+    "year": 2014,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 132,
+    "year": 2013,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 125,
+    "year": 2012,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 127,
+    "year": 2011,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 118,
+    "year": 2010,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 24,
+    "visa_free_count": 118,
+    "year": 2008,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 20,
+    "visa_free_count": 99,
+    "year": 2006,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 153,
+    "year": 2022,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 153,
+    "year": 2023,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 26,
+    "visa_free_count": 156,
+    "year": 2024,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "UY",
+    "country": "Uruguay",
+    "region": "AMERICAS",
+    "rank": 22,
+    "visa_free_count": 157,
+    "year": 2025,
+    "region_rank_2025": 7
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 149,
+    "year": 2021,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 149,
+    "year": 2018,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 150,
+    "year": 2020,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 134,
+    "year": 2017,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 131,
+    "year": 2016,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 127,
+    "year": 2015,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 125,
+    "year": 2014,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 122,
+    "year": 2013,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 117,
+    "year": 2012,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 120,
+    "year": 2011,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 114,
+    "year": 2010,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 108,
+    "year": 2008,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 150,
+    "year": 2019,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 23,
+    "visa_free_count": 95,
+    "year": 2006,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 150,
+    "year": 2022,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 150,
+    "year": 2023,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 152,
+    "year": 2024,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "CR",
+    "country": "Costa Rica",
+    "region": "AMERICAS",
+    "rank": 26,
+    "visa_free_count": 149,
+    "year": 2025,
+    "region_rank_2025": 8
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 141,
+    "year": 2021,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 141,
+    "year": 2018,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 142,
+    "year": 2020,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 140,
+    "year": 2019,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 127,
+    "year": 2017,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 127,
+    "year": 2016,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 125,
+    "year": 2015,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 124,
+    "year": 2014,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 121,
+    "year": 2013,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 113,
+    "year": 2012,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 114,
+    "year": 2011,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 106,
+    "year": 2010,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 100,
+    "year": 2008,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 82,
+    "year": 2006,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 142,
+    "year": 2022,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 144,
+    "year": 2023,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 149,
+    "year": 2024,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PA",
+    "country": "Panama",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 148,
+    "year": 2025,
+    "region_rank_2025": 9
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 141,
+    "year": 2021,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 143,
+    "year": 2018,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 141,
+    "year": 2020,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 142,
+    "year": 2019,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 128,
+    "year": 2017,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 125,
+    "year": 2016,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 123,
+    "year": 2015,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 123,
+    "year": 2014,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 124,
+    "year": 2013,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 119,
+    "year": 2012,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 121,
+    "year": 2011,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 112,
+    "year": 2010,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 104,
+    "year": 2008,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 82,
+    "year": 2006,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 141,
+    "year": 2022,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 142,
+    "year": 2023,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 146,
+    "year": 2024,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PY",
+    "country": "Paraguay",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 146,
+    "year": 2025,
+    "region_rank_2025": 10
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 134,
+    "year": 2021,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 135,
+    "year": 2018,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 135,
+    "year": 2020,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 135,
+    "year": 2019,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 118,
+    "year": 2017,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 86,
+    "year": 2016,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 60,
+    "visa_free_count": 82,
+    "year": 2015,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 50,
+    "visa_free_count": 83,
+    "year": 2014,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 49,
+    "visa_free_count": 80,
+    "year": 2013,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 60,
+    "visa_free_count": 76,
+    "year": 2012,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 58,
+    "visa_free_count": 75,
+    "year": 2011,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 58,
+    "visa_free_count": 71,
+    "year": 2010,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 52,
+    "visa_free_count": 62,
+    "year": 2008,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 41,
+    "year": 2006,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 135,
+    "year": 2022,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 136,
+    "year": 2023,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 142,
+    "year": 2024,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "PE",
+    "country": "Peru",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 143,
+    "year": 2025,
+    "region_rank_2025": 11
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 133,
+    "year": 2021,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 137,
+    "year": 2018,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 134,
+    "year": 2020,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 120,
+    "year": 2017,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 43,
+    "visa_free_count": 115,
+    "year": 2016,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 43,
+    "visa_free_count": 112,
+    "year": 2015,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 112,
+    "year": 2014,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 113,
+    "year": 2013,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 111,
+    "year": 2012,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 113,
+    "year": 2011,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 105,
+    "year": 2010,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 98,
+    "year": 2008,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 134,
+    "year": 2019,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 81,
+    "year": 2006,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 134,
+    "year": 2022,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 132,
+    "year": 2023,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 136,
+    "year": 2024,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "SV",
+    "country": "El Salvador",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 135,
+    "year": 2025,
+    "region_rank_2025": 12
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 132,
+    "year": 2021,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 137,
+    "year": 2018,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 133,
+    "year": 2020,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 119,
+    "year": 2017,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 116,
+    "year": 2016,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 113,
+    "year": 2015,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 114,
+    "year": 2014,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 114,
+    "year": 2013,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 109,
+    "year": 2012,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 112,
+    "year": 2011,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 105,
+    "year": 2010,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 100,
+    "year": 2008,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 132,
+    "year": 2019,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 82,
+    "year": 2006,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 133,
+    "year": 2022,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 133,
+    "year": 2023,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 137,
+    "year": 2024,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "GT",
+    "country": "Guatemala",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 134,
+    "year": 2025,
+    "region_rank_2025": 13
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 44,
+    "visa_free_count": 129,
+    "year": 2021,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 127,
+    "year": 2018,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 127,
+    "year": 2020,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 50,
+    "visa_free_count": 107,
+    "year": 2017,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 50,
+    "visa_free_count": 103,
+    "year": 2016,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 75,
+    "visa_free_count": 66,
+    "year": 2015,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 66,
+    "year": 2014,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 63,
+    "year": 2013,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 74,
+    "visa_free_count": 59,
+    "year": 2012,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 77,
+    "visa_free_count": 54,
+    "year": 2011,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 73,
+    "visa_free_count": 54,
+    "year": 2010,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 48,
+    "year": 2008,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 43,
+    "visa_free_count": 126,
+    "year": 2019,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 32,
+    "year": 2006,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 131,
+    "year": 2022,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 133,
+    "year": 2023,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 135,
+    "year": 2024,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "CO",
+    "country": "Colombia",
+    "region": "AMERICAS",
+    "rank": 35,
+    "visa_free_count": 132,
+    "year": 2025,
+    "region_rank_2025": 14
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 132,
+    "year": 2021,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 138,
+    "year": 2018,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 134,
+    "year": 2020,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 121,
+    "year": 2017,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 119,
+    "year": 2016,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 116,
+    "year": 2015,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 116,
+    "year": 2014,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 114,
+    "year": 2013,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 110,
+    "year": 2012,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 112,
+    "year": 2011,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 105,
+    "year": 2010,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 31,
+    "visa_free_count": 100,
+    "year": 2008,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 37,
+    "visa_free_count": 134,
+    "year": 2019,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 80,
+    "year": 2006,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 133,
+    "year": 2022,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 133,
+    "year": 2023,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 135,
+    "year": 2024,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "HN",
+    "country": "Honduras",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 131,
+    "year": 2025,
+    "region_rank_2025": 15
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 126,
+    "year": 2021,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 128,
+    "year": 2018,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 129,
+    "year": 2020,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 128,
+    "year": 2019,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 112,
+    "year": 2017,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 110,
+    "year": 2016,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 108,
+    "year": 2015,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 110,
+    "year": 2014,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 109,
+    "year": 2013,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 44,
+    "visa_free_count": 105,
+    "year": 2012,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 108,
+    "year": 2011,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 43,
+    "visa_free_count": 101,
+    "year": 2010,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 93,
+    "year": 2008,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 75,
+    "year": 2006,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 127,
+    "year": 2022,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 43,
+    "visa_free_count": 128,
+    "year": 2023,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 43,
+    "visa_free_count": 130,
+    "year": 2024,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "NI",
+    "country": "Nicaragua",
+    "region": "AMERICAS",
+    "rank": 39,
+    "visa_free_count": 127,
+    "year": 2025,
+    "region_rank_2025": 16
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 44,
+    "visa_free_count": 129,
+    "year": 2021,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 138,
+    "year": 2018,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 41,
+    "visa_free_count": 129,
+    "year": 2020,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 38,
+    "visa_free_count": 132,
+    "year": 2019,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 129,
+    "year": 2017,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 32,
+    "visa_free_count": 132,
+    "year": 2016,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 30,
+    "visa_free_count": 129,
+    "year": 2015,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 25,
+    "visa_free_count": 131,
+    "year": 2014,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 27,
+    "visa_free_count": 128,
+    "year": 2013,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 34,
+    "visa_free_count": 123,
+    "year": 2012,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 33,
+    "visa_free_count": 124,
+    "year": 2011,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 36,
+    "visa_free_count": 115,
+    "year": 2010,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 28,
+    "visa_free_count": 111,
+    "year": 2008,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 25,
+    "visa_free_count": 92,
+    "year": 2006,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 40,
+    "visa_free_count": 129,
+    "year": 2022,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 129,
+    "year": 2023,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 126,
+    "year": 2024,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "VE",
+    "country": "Venezuela",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 119,
+    "year": 2025,
+    "region_rank_2025": 17
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 101,
+    "year": 2021,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 53,
+    "visa_free_count": 101,
+    "year": 2018,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 52,
+    "visa_free_count": 101,
+    "year": 2020,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 95,
+    "year": 2017,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 55,
+    "visa_free_count": 94,
+    "year": 2016,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 91,
+    "year": 2015,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 44,
+    "visa_free_count": 93,
+    "year": 2014,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 87,
+    "year": 2013,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 53,
+    "visa_free_count": 86,
+    "year": 2012,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 53,
+    "visa_free_count": 83,
+    "year": 2011,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 50,
+    "visa_free_count": 82,
+    "year": 2010,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 75,
+    "year": 2008,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 54,
+    "visa_free_count": 99,
+    "year": 2019,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 42,
+    "visa_free_count": 58,
+    "year": 2006,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 52,
+    "visa_free_count": 101,
+    "year": 2022,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 54,
+    "visa_free_count": 103,
+    "year": 2023,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 54,
+    "visa_free_count": 104,
+    "year": 2024,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "BZ",
+    "country": "Belize",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 102,
+    "year": 2025,
+    "region_rank_2025": 18
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 63,
+    "visa_free_count": 91,
+    "year": 2021,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 55,
+    "visa_free_count": 93,
+    "year": 2018,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 55,
+    "visa_free_count": 91,
+    "year": 2020,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 83,
+    "year": 2017,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 58,
+    "visa_free_count": 81,
+    "year": 2016,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 78,
+    "year": 2015,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 54,
+    "visa_free_count": 78,
+    "year": 2014,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 54,
+    "visa_free_count": 74,
+    "year": 2013,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 70,
+    "year": 2012,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 63,
+    "visa_free_count": 69,
+    "year": 2011,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 65,
+    "year": 2010,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 55,
+    "visa_free_count": 58,
+    "year": 2008,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 58,
+    "visa_free_count": 91,
+    "year": 2019,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 41,
+    "year": 2006,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 91,
+    "year": 2022,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 92,
+    "year": 2023,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 95,
+    "year": 2024,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "EC",
+    "country": "Ecuador",
+    "region": "AMERICAS",
+    "rank": 49,
+    "visa_free_count": 94,
+    "year": 2025,
+    "region_rank_2025": 19
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 66,
+    "visa_free_count": 87,
+    "year": 2021,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 88,
+    "year": 2020,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 88,
+    "year": 2018,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 81,
+    "year": 2017,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 82,
+    "year": 2016,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 62,
+    "visa_free_count": 80,
+    "year": 2015,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 52,
+    "visa_free_count": 81,
+    "year": 2014,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 51,
+    "visa_free_count": 78,
+    "year": 2013,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 60,
+    "visa_free_count": 76,
+    "year": 2012,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 74,
+    "year": 2011,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 72,
+    "year": 2010,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 46,
+    "visa_free_count": 69,
+    "year": 2008,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 45,
+    "visa_free_count": 53,
+    "year": 2006,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 60,
+    "visa_free_count": 87,
+    "year": 2019,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 87,
+    "year": 2022,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 62,
+    "visa_free_count": 88,
+    "year": 2023,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 91,
+    "year": 2024,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "GY",
+    "country": "Guyana",
+    "region": "AMERICAS",
+    "rank": 51,
+    "visa_free_count": 91,
+    "year": 2025,
+    "region_rank_2025": 20
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 72,
+    "visa_free_count": 79,
+    "year": 2021,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 78,
+    "year": 2020,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 66,
+    "visa_free_count": 79,
+    "year": 2018,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 75,
+    "year": 2017,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 66,
+    "visa_free_count": 72,
+    "year": 2016,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 70,
+    "visa_free_count": 71,
+    "year": 2015,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 74,
+    "year": 2014,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 55,
+    "visa_free_count": 73,
+    "year": 2013,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 69,
+    "year": 2012,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 67,
+    "year": 2011,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 67,
+    "visa_free_count": 62,
+    "year": 2010,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 50,
+    "visa_free_count": 65,
+    "year": 2008,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 29,
+    "visa_free_count": 83,
+    "year": 2006,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 78,
+    "year": 2019,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 79,
+    "year": 2022,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 66,
+    "visa_free_count": 80,
+    "year": 2023,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 63,
+    "visa_free_count": 82,
+    "year": 2024,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "BO",
+    "country": "Bolivia",
+    "region": "AMERICAS",
+    "rank": 62,
+    "visa_free_count": 78,
+    "year": 2025,
+    "region_rank_2025": 21
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 74,
+    "visa_free_count": 77,
+    "year": 2021,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 78,
+    "year": 2020,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 80,
+    "year": 2018,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 74,
+    "year": 2017,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 74,
+    "year": 2016,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 71,
+    "visa_free_count": 70,
+    "year": 2015,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 59,
+    "visa_free_count": 72,
+    "year": 2014,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 72,
+    "year": 2013,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 70,
+    "year": 2012,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 66,
+    "visa_free_count": 66,
+    "year": 2011,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 66,
+    "visa_free_count": 63,
+    "year": 2010,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 56,
+    "visa_free_count": 57,
+    "year": 2008,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 57,
+    "visa_free_count": 40,
+    "year": 2006,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 65,
+    "visa_free_count": 78,
+    "year": 2019,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 67,
+    "visa_free_count": 77,
+    "year": 2022,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 70,
+    "visa_free_count": 76,
+    "year": 2023,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 64,
+    "visa_free_count": 81,
+    "year": 2024,
+    "region_rank_2025": 22
+  },
+  {
+    "code": "SR",
+    "country": "Suriname",
+    "region": "AMERICAS",
+    "rank": 62,
+    "visa_free_count": 78,
+    "year": 2025,
+    "region_rank_2025": 22
+  }
+]
