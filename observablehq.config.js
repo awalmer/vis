@@ -16,6 +16,13 @@ export default {
   //   }
   // ],
 
+ pages: [
+    {name: "Pulitzer Prize", path: "/pulitzer"},
+    {name: "Henley Passport Index", path: "/passport-heatmap"}
+  ],
+
+  pager: false,
+
   // Content to add to the head of the page, e.g. for a favicon:
   head: '<link rel="icon" href="images/favicon-eye.png" type="image/png" sizes="32x32">',
 
