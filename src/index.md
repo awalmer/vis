@@ -5,7 +5,7 @@ footer: false
 
 <h1>Data Visualization | Aura </h1>
 
-<p style="font-size: 115%; max-width: 83%;">Hi, I'm Aura. I'm a <span style="color: #fca61d; font-weight: bold;">data designer</span>, <span style="color: #ef59c5; font-weight: bold;">researcher</span>, <span style="color: #36cccc; font-weight: bold;">artist</span>, and <span style="color: #9bcc5c; font-weight: bold;">audio enthusiast</span>. <br> I use interdisciplinary methods to combine data, art, and sound for the purpose of communication and learning.</p>
+<p style="font-size: 115%; max-width: 83%;">Hi, I'm Aura. I'm a <span style="color: #fca61d; font-weight: bold;">researcher</span>, <span style="color: #ef59c5; font-weight: bold;">data wrangler</span>, <span style="color: #36cccc; font-weight: bold;">illustrator</span>, and <span style="color: #9bcc5c; font-weight: bold;">sound designer</span>. <br> I use interdisciplinary methods to combine data, art, and sound for the purpose of communication and learning.</p>
 
 <p style="font-size: 115%; max-width: 83%;">This is a space for sharing some of my data visualization projects.</p>
 
